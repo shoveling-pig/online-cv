@@ -1,12 +1,14 @@
 sidebar:
     # Profile information
-    name: Minchan Kim
+    name: |
+        Minchan
+        Kim
     tagline: Android Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: shovelingpig@gmail.com
-    phone: 01-3308-9805
+    phone: 010-3308-9805
     website: medium.com/shoveling-pig #do not add http://
     github: shoveling-pig
     linkedin: shovelingpig
@@ -26,12 +28,12 @@ sidebar:
 
       - item: Kaggle
 
-      - item: Soccer
+      - item: Reading Books
 
 career-profile:
     title: Career Profile
     summary: |
-      트러플 냄새를 쫓아 온 땅을 헤집는 돼지처럼, 최적의 코드를 작성하기 위해 매일같이 인터넷과 서적을 헤집는 주니어 개발자입니다.\n
+      트러플 냄새를 쫓아 온 땅을 헤집는 돼지처럼, 최적의 코드를 작성하기 위해 매일같이 인터넷과 서적을 헤집는 주니어 개발자입니다.
       복잡한 것을 단순하게 추상화하고 수학적으로 최적화하는 것을 좋아합니다.
       
 education:
@@ -39,14 +41,14 @@ education:
       university: College of Liberal Studies
       time: 2019 - present
       details: |
-        - Major1 - Computer Science and Engineering
-        - Major2 - Business Administration
+        - Computer Science and Engineering
+        - Business Administration
     - degree: Korea Univ.
       university: College of Liberal Studies
       time: 2018 - 2019
       details: |
-        - Major1 - Computer Science and Engineering
-        - Major2 - Law
+        - Computer Science and Engineering
+        - Law
         
 experiences:
     - role: IoT System R&D Intern
@@ -82,18 +84,19 @@ projects:
 
       - title: Meeting Playlist
         tagline: "A mobile app developed for meeting matching and restaurant reservation service for college students."
-
-skills:
-    title: Skills
-    assignments:
-      - title: Android
-        tagline: Java, Kotlin, Kotlin DSL, RxJava, RxAndroid, Coroutine, DataBinding, Retrofit2, Room, Koin, MVVM, Clean Architecture
-
-      - title: Backend
-        tagline: Python, Django, DRF, MySQL, Redis, Docker, AWS(EC2, RDS, S3, Lambda, etc)
-
-      - title: Machine Learning
-        tagline: Pandas, Scikit-learn, Pytorch, TensorFlow
         
-      - title: ETC
-        tagline: Git, Jira, Trello, Figma, Slack, Notion
+ skills:
+    title: Skills
+
+    toolset:
+      - name: Android - Java, Kotlin, Kotlin DSL, RxJava, RxAndroid, Coroutine, DataBinding, Retrofit2, Room, Koin, MVVM, Clean Architecture
+        level: 80%
+
+      - name: Backend - Python, Django, DRF, MySQL, Redis, Docker, AWS(EC2, RDS, S3, Lambda, etc)
+        level: 60%
+
+      - name: Machine Learning - Pandas, Scikit-learn, Pytorch, TensorFlow
+        level: 40%
+
+      - name: ETC - Git, Jira, Trello, Figma, Slack, Notion
+        level: 100%
