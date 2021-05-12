@@ -78,10 +78,16 @@ projects:
       If you want to check more about the details, please click **[here](https://shoveling-pig.github.io/online-portfolio/)**.
     assignments:
       - title: SNUGH
-        time: 2020.08 - present
+        time: 2020.12 - present
         company: Waffle Studio
         tagline: |
           - A website and mobile app developed for course planning and graduation requirements management service for college students.
+          
+      - title: 당근마켓 Clone Coding
+        time: 2020.08 - 2020.11
+        company: Waffle Studio
+        tagline: |
+          - The clone coding project of 당근마켓, an used training service.
 
       - title: Proudly
         time: 2020.01 - 2020.07
