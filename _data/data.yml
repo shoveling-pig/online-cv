@@ -113,13 +113,13 @@ skills:
         description: |
           <br/>
           - Java
-          - Kotlin, Kotlin DSL
+          - Kotlin & Kotlin DSL
           - RxJava, RxAndroid, Coroutine
           - LiveData, DataBinding
           - OKHttp, Retrofit2
           - Room
           - Koin
-          - MVVM, Clean Architecture
+          - MVVM & Clean Architecture
         level: 90%
 
       - name: Backend
