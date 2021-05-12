@@ -113,17 +113,13 @@ skills:
         description: |
           <br/>
           - Java
-          - Kotlin
-          - Kotlin DSL
-          - RxJava
-          - RxAndroid
-          - Coroutine
-          - DataBinding
-          - Retrofit2
+          - Kotlin, Kotlin DSL
+          - RxJava, RxAndroid, Coroutine
+          - LiveData, DataBinding
+          - OKHttp, Retrofit2
           - Room
           - Koin
-          - MVVM
-          - Clean Architecture
+          - MVVM, Clean Architecture
         level: 90%
 
       - name: Backend
@@ -131,11 +127,10 @@ skills:
         description: |
           <br/>
           - Python
-          - Django
-          - DRF
+          - Django & DRF
           - MySQL
           - Redis
-          - Docker
+          - Docker & Docker Compose
           - AWS(EC2, RDS, S3, Lambda, etc)
         level: 50%
 
@@ -143,7 +138,7 @@ skills:
         extra: <br/>I have a ML skills that can develop ML Applications by training models for given tasks and deploying them to mobile client or server.
         description: |
           <br/>
-          - Pandas
+          - Numpy & Pandas
           - Scikit-learn
           - Pytorch
           - TensorFlow
