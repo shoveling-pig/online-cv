@@ -29,8 +29,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m an software engineer especially interested in abstracting complex things into simplest mathematical formulas and optimizing it.
-      Currently I’am looking for an opportunity to work as an android developer.
+      I’m a software engineer interested in reactive programming and functional programming.
+      Currently I’m looking for an opportunity to work as an Android developer. 
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
@@ -51,26 +51,26 @@ experiences:
       time: 2020.12 - 2021.03
       company: Co-design and Parallel Processing Lab 
       details: |
-        - Develop mobile client of service oriented IoT platform which is about to be commercialized.
-        - Build a pipeline for real-time execution of IoT systems by recognizing user's voice commands using STT.
+        - Developed a mobile client of service oriented IoT platform(about to be commercialized).
+        - Built a pipeline that guarantees real-time execution of STT-based IoT systems.
     - role: <strong>Android Developer</strong>
       time: 2020.08 - present
       company: Waffle Studio
       details: |
-        - Develop and operate SNUGH, a course planning and graduation requirements management service for college student.
-        - Launch a website by developing backend server and managing DevOps, and also develop the mobile app, too.
+        - Developed and operated SNUGH, an application that helps college students plan their courses beforehand and manage graduation requirements.
+        - Participated in mobile app development, backend development and DevOps management.
     - role: <strong>Android Developer</strong>
       time: 2019.03 - 2019.12
       company: Melting Pot
       details: |
-        - Develop Finger Call, an application that manages late fines and shares locations in real time.
-        - Learn to skillfully utilize various useful sensors on mobile devices.
+        - Developed Finger Call, an application that helps people be on time by calculating late fees and sharing each other's current location in real time.
+        - Learned to skillfully utilize various sensors on mobile devices.
     - role: <strong>Android Seminar Mentor</strong>
       time: 2018.03 - 2019.02
       company: KUCC
       details: |
-        - As a mentor of the android seminar, teach overall android development, MVVM and clean Architecture.
-        - Succeeded to attracting small investments by developing Meeting Playlist, a meeting matching and restaurant reservation service for college students.
+        - Taught overall android development, MVVM and clean architecture as the mentor of android seminar.
+        - Succeeded in attracting small investments for group blind date matching and restaurant reservation service named ‘Meeting Playlist’
         
 projects:
     title: Projects
@@ -81,25 +81,25 @@ projects:
         time: 2021.01 - present
         company: Waffle Studio
         tagline: |
-          - A website and mobile app developed for course planning and graduation requirements management service for college students.
+          - A website and mobile app developed to aid college students plan their courses and manage graduation requirements.
 
       - title: Proudly
         time: 2020.01 - 2020.07
         company: SPT
         tagline: |
-          - A mobile app developed for self-management scheduling service using photo authentication.
+          - A mobile app developed for self-management alarm service using photo authentication.
 
       - title: Finger Call
         time: 2019.06 - 2019.12
         company: Melting Pot
         tagline: |
-          - A mobile app developed for late expense management and real-time location sharing service for organizations.
+          - A mobile app developed for late fee management and real-time location sharing service for organizations.
 
       - title: Meeting Playlist
         time: 2018.03 - 2019.02
         company: KUCC
         tagline: |
-          - A mobile app developed for meeting matching and restaurant reservation service for college students.
+          - A mobile app developed for group blind date matching and restaurant reservation service for college students.
         
 publications:
     title: Certificates
@@ -135,7 +135,7 @@ skills:
         level: 50%
 
       - name: Machine Learning
-        extra: <br/>I have a ML skills that can develop ML Applications by training models for given tasks and deploying them to mobile client or server.
+        extra: <br/>I have a ML skills that can develop ML-based applications by training models and deploying them to the mobile client or server.
         description: |
           <br/>
           - Numpy & Pandas
@@ -145,7 +145,7 @@ skills:
         level: 40%
 
       - name: Collaboration Tools
-        extra: <br/>I can use collaboration tools for effective communication with other developers, UI/UX designer, PM, etc.
+        extra: <br/>I'm apt at using various collaboration tools for effective communication with other developers, UI/UX designers, Product Managers, etc.
         description: |
           <br/>
           - Git
