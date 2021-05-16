@@ -118,7 +118,7 @@ skills:
           - LiveData, DataBinding
           - OKHttp, Retrofit2
           - Room
-          - Koin
+          - Dagger2, Koin
           - MVVM & Clean Architecture
         level: 90%
 
