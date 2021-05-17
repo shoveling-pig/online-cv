@@ -34,17 +34,23 @@ career-profile:
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
-      university: College of Liberal Studies
+      university: Computer Science and Engineering
       time: 2019.03 - present
       details: |
-        - Computer Science and Engineering
-        - Business Administration
+        - Attending at thrid year.
+        - Course Details:
+        Discrete Mathematics,
+        Digital Computer Concept and Practice,
+        Computer Programming,
+        Data Structure,
+        Algorithm,
+        Logic Design,
+        Electric and Electronic Circuit,
+        Computer Architecture,
+        Internet Security
     - degree: <strong>Korea Univ.</strong>
-      university: College of Liberal Studies
+      university: Computer Science and Engineering
       time: 2018.03 - 2019.02
-      details: |
-        - Computer Science and Engineering
-        - Law
         
 experiences:
     - role: <strong>IoT System R&D Intern</strong>
