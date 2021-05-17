@@ -118,13 +118,12 @@ skills:
       - name: Android
         description: |
           <br/>
-          - Java
-          - Kotlin & Kotlin DSL
-          - RxJava, RxAndroid, Coroutine
+          - Java & Kotlin
+          - RxJava, Coroutine
           - LiveData, DataBinding
           - OKHttp, Retrofit2
-          - Room
-          - Dagger2, Koin
+          - RoomDatabase
+          - Koin
           - MVVM & Clean Architecture
         level: 90%
 
