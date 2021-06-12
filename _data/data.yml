@@ -35,13 +35,13 @@ career-profile:
 education:
     - degree: <strong>Seoul National Univ.</strong>
       university: |  
-        Computer Science and Engineering  
+        Computer Science and Engineering</br>nBussiness Administration
       time: 2019.03 - present
       details: |
         - Attending at thrid year
     - degree: <strong>Korea Univ.</strong>
       university: |  
-        Computer Science and Engineering  
+        Computer Science and Engineering</br>Law
       time: 2018.03 - 2019.02
         
 experiences:
