@@ -24,7 +24,7 @@ sidebar:
 
       - item: Problem Solving
 
-      - item: Reading Books
+      - item: Soccer
 
 career-profile:
     title: Career Profile
@@ -36,14 +36,12 @@ education:
     - degree: <strong>Seoul National Univ.</strong>
       university: |  
         Computer Science and Engineering  
-        Business Administration
       time: 2019.03 - present
       details: |
         - Attending at thrid year
     - degree: <strong>Korea Univ.</strong>
       university: |  
         Computer Science and Engineering  
-        Law
       time: 2018.03 - 2019.02
         
 experiences:
