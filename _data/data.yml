@@ -1,6 +1,6 @@
 sidebar: 
     name: <strong>Minchan</br>Kim</strong>
-    tagline: Android Developer
+    tagline: ML Engineer
     avatar: profile.png
 
     email: shovelingpig@gmail.com
@@ -20,17 +20,17 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: Problem Solving
-
       - item: Kaggle Competition
+
+      - item: Problem Solving
 
       - item: Reading Books
 
 career-profile:
     title: Career Profile
     summary: |
-      I’m a software engineer interested in object-oriented programming and functional reactive programming.
-      Currently I’m looking for an opportunity to work as an Android developer. 
+      I’m a ML engineer interested in computer vision and deep neural network.
+      Currently I’m looking for an opportunity to work as an ML research intern. 
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
@@ -55,17 +55,17 @@ education:
 experiences:
     - role: <strong>IoT System R&D Intern</strong>
       time: 2020.12 - 2021.03
-      company: Co-design and Parallel Processing Lab 
+      company: SNU Co-design and Parallel Processing Lab 
       details: |
         - Developed a mobile client of service oriented IoT platform(about to be commercialized).
         - Built a pipeline that guarantees real-time execution of STT-based IoT systems.
-    - role: <strong>Android Developer</strong>
+    - role: <strong>Team Leader</strong>
       time: 2020.08 - present
       company: Waffle Studio
       details: |
         - Developed and operated 'SNUGH', an application that helps college students plan their courses beforehand and manage graduation requirements.
         - Participated in mobile app development, backend development and DevOps management.
-    - role: <strong>Android Developer</strong>
+    - role: <strong>Team Leader</strong>
       time: 2019.03 - 2019.12
       company: Melting Pot
       details: |
@@ -115,20 +115,17 @@ publications:
 skills:
     title: Skills
     toolset:
-      - name: Android
+      - name: Machine Learning
+        extra: <br/>I have a ML skills that can develop ML-based applications by training models and deploying them to the mobile client or server.
         description: |
           <br/>
-          - Java & Kotlin
-          - RxJava, Coroutine
-          - LiveData, DataBinding
-          - OKHttp, Retrofit2
-          - RoomDatabase
-          - Koin
-          - MVVM & Clean Architecture
-        level: 90%
+          - Numpy & Pandas
+          - Scikit-learn
+          - Pytorch
+          - TensorFlow
+        level: 60%
 
       - name: Backend
-        extra: <br/>I have a backend skills that can test and validate the functionality of the mobile client.
         description: |
           <br/>
           - Python
@@ -139,15 +136,17 @@ skills:
           - AWS(EC2, RDS, S3, Lambda, etc)
         level: 50%
 
-      - name: Machine Learning
-        extra: <br/>I have a ML skills that can develop ML-based applications by training models and deploying them to the mobile client or server.
+      - name: Android
         description: |
           <br/>
-          - Numpy & Pandas
-          - Scikit-learn
-          - Pytorch
-          - TensorFlow
-        level: 40%
+          - Java & Kotlin
+          - RxJava, Coroutine
+          - LiveData, DataBinding
+          - OKHttp, Retrofit2
+          - RoomDatabase
+          - Koin
+          - MVVM & Clean Architecture
+        level: 70%
 
       - name: Collaboration Tools
         extra: <br/>I'm apt at using various collaboration tools for effective communication with other developers, UI/UX designers, Product Managers, etc.
