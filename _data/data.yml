@@ -110,7 +110,6 @@ skills:
     title: Skills
     toolset:
       - name: Machine Learning
-        extra: <br/>I have a ML skills that can develop ML-based applications by training models and deploying them to the mobile client or server.
         description: |
           <br/>
           - Numpy & Pandas
