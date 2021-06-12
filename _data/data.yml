@@ -29,27 +29,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m a ML engineer interested in computer vision and deep neural network.
-      Currently I’m looking for an opportunity to work as an ML research intern. 
+      I’m a ML engineer interested in computer vision and deep neural network.  
+      Currently I’m looking for an opportunity to work as a research intern. 
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
-      university: Computer Science and Engineering
+      university: |  
+        Computer Science and Engineering  
+        Business Administration
       time: 2019.03 - present
       details: |
         - Attending at thrid year
-        - Course Details:
-        Discrete Mathematics,
-        Digital Computer Concept and Practice,
-        Computer Programming,
-        Data Structure,
-        Algorithm,
-        Logic Design,
-        Electrical and Electronic Circuits,
-        Computer Architecture,
-        Internet Security
     - degree: <strong>Korea Univ.</strong>
-      university: Computer Science and Engineering
+      university: |  
+        Computer Science and Engineering  
+        Law
       time: 2018.03 - 2019.02
         
 experiences:
@@ -57,20 +51,20 @@ experiences:
       time: 2020.12 - 2021.03
       company: SNU Co-design and Parallel Processing Lab 
       details: |
-        - Developed a mobile client of service oriented IoT platform(about to be commercialized).
-        - Built a pipeline that guarantees real-time execution of STT-based IoT systems.
-    - role: <strong>Team Leader</strong>
+        - Studied automatic generation of script language for service-oriented IoT platform using GPT-2.
+        - Developed a backend server of service-oriented IoT platform(about to be commercialized).
+    - role: <strong>Software Engineer</strong>
       time: 2020.08 - present
       company: Waffle Studio
       details: |
         - Developed and operated 'SNUGH', an application that helps college students plan their courses beforehand and manage graduation requirements.
-        - Participated in mobile app development, backend development and DevOps management.
-    - role: <strong>Team Leader</strong>
+        - Participated in backend development, mobile app development and DevOps management.
+    - role: <strong>Software Engineer</strong>
       time: 2019.03 - 2019.12
       company: Melting Pot
       details: |
         - Developed 'Finger Call', an application that helps people be on time by calculating late fees and sharing each other's current location in real time.
-        - Learned to skillfully utilize various sensors on mobile devices.
+        - Participated in mobile app development.
     - role: <strong>Android Seminar Mentor</strong>
       time: 2018.03 - 2019.02
       company: KUCC
