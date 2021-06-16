@@ -45,7 +45,7 @@ education:
         
 experiences:
     - role: <strong>Research Intern</strong>
-      time: 2021.03 - present
+      time: 2021.06 - present
       company: SNU Applied Data Science Lab 
       details: |
         - Studied meta-learning model for 12-lead ECG classification.
