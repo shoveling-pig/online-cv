@@ -123,6 +123,7 @@ skills:
           - Scikit-learn
           - Pytorch
           - TensorFlow
+          - Keras
         level: 60%
 
       - name: Backend
