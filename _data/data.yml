@@ -48,7 +48,7 @@ experiences:
       time: 2021.06 - present
       company: SNU Applied Data Science Lab 
       details: |
-        - Studied meta-learning model for 12-lead ECG classification.
+        - Studied meta-learning model for individualized cardiac abnormality diagnosis using 12-lead ECG classification.
         - Participated in the PhysioNet/CinC Challenge 2021.
         
     - role: <strong>Research Intern</strong>
