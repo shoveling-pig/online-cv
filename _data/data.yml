@@ -55,7 +55,7 @@ experiences:
       time: 2020.12 - 2021.03
       company: SNU Co-design and Parallel Processing Lab 
       details: |
-        - Studied automatic generation of script language for service-oriented IoT platform using GPT-2.
+        - Studied automatic code generation of script language for service-oriented IoT platform using GPT-2.
         - Developed a backend server of service-oriented IoT platform(about to be commercialized).
         
     - role: <strong>Software Engineer</strong>
