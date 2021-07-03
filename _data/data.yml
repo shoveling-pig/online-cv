@@ -50,6 +50,7 @@ experiences:
       details: |
         - Studied meta learning model for personalized diagnosis of cardiac abnormality using 12-lead ECG classification.
         - Participated in the PhysioNet/CinC Challenge 2021.
+        - Optimized the architecture of transformer-based model and improved inference accuracy by more than 20%.
         
     - role: <strong>Research Intern</strong>
       time: 2020.12 - 2021.03
@@ -57,6 +58,7 @@ experiences:
       details: |
         - Studied automatic code generation of script language for service-oriented IoT platform using GPT-2.
         - Developed a backend server of service-oriented IoT platform(about to be commercialized).
+        - Modified the backend server code and improved the latency of the inference API from 8 seconds to 1 second.
         
     - role: <strong>Software Engineer</strong>
       time: 2020.08 - present
@@ -151,7 +153,7 @@ skills:
           - MVVM & Clean Architecture
         level: 70%
 
-      - name: Collaboration Tools
+      - name: Collaboration
         extra: <br/>I'm apt at using various collaboration tools for effective communication with other developers, UI/UX designers, Product Managers, etc.
         description: |
           <br/>
