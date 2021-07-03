@@ -58,7 +58,7 @@ experiences:
       details: |
         - Studied automatic code generation of script language for service-oriented IoT platform using GPT-2.
         - Developed a backend server of service-oriented IoT platform(about to be commercialized).
-        - Modified the backend server code and improved the latency of the inference API from 8 seconds to 1 second.
+        - Improved the latency of the inference API from 8 seconds to 1 second.
         
     - role: <strong>Software Engineer</strong>
       time: 2020.08 - present
