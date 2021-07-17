@@ -1,15 +1,11 @@
-sidebar:
-    # Profile information
-    name: |
-        **Minchan**
-        **Kim**
-    tagline: Android Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+sidebar: 
+    name: <strong>Minchan<br/>Kim</strong>
+    tagline: MLOps Engineer
+    avatar: profile.png
 
-    # Sidebar links
     email: shovelingpig@gmail.com
     phone: 010-3308-9805
-    website: medium.com/shoveling-pig #do not add http://
+    website: medium.com/shoveling-pig
     github: shoveling-pig
     linkedin: shovelingpig
 
@@ -24,79 +20,148 @@ sidebar:
         level: Intermediate
 
     interests:
+      - item: Kaggle Competition
+
       - item: Problem Solving
 
-      - item: Kaggle
-
-      - item: Reading Books
+      - item: Soccer
 
 career-profile:
     title: Career Profile
     summary: |
-      트러플 냄새를 쫓아 온 땅을 헤집는 돼지처럼, 최적의 코드를 작성하기 위해 매일같이 인터넷과 서적을 헤집는 주니어 개발자입니다.
-      복잡한 것을 단순하게 추상화하고 수학적으로 최적화하는 것을 좋아합니다.
+      I’m a ML engineer interested in meta learning and transfer learning for few-shot learning.   
+      Currently I’m looking for an opportunity to work as 현역 산업기능요원.  
       
 education:
-    - degree: Seoul National Univ.
-      university: College of Liberal Studies
-      time: 2019 - present
+    - degree: <strong>Seoul National Univ.</strong>
+      university: |  
+        Computer Science and Engineering</br>Bussiness Administration
+      time: 2019.03 - present
       details: |
-        - Computer Science and Engineering
-        - Business Administration
-    - degree: Korea Univ.
-      university: College of Liberal Studies
-      time: 2018 - 2019
-      details: |
-        - Computer Science and Engineering
-        - Law
+    - degree: <strong>Korea Univ.</strong>
+      university: |  
+        Computer Science and Engineering
+      time: 2018.03 - 2019.02
         
 experiences:
-    - role: IoT System R&D Intern
-      time: 2020 - 2021
-      company: Co-design and Parallel Processing Lab 
+    - role: <strong>Research Intern</strong>
+      time: 2021.03 - present
+      company: SNU Applied Data Science Lab 
       details: |
-        - 상용화를 앞둔 Service Oriented IoT Platform의 Mobile Client 개발
-        - 사용자의 음성 명령을 인식하여 IoT 시스템을 실시간으로 동작시키는 파이프라인 구축
-    - role: Android Developer
-      time: 2020 - present
-      company: WaffleStudio
+        - Studied meta learning model for personalized diagnosis of cardiac abnormality using 12-lead ECG classification.
+        - Participated in the PhysioNet/CinC Challenge 2021.
+        - Optimized the architecture of transformer-based model and improved inference accuracy by more than 20%.
+        
+    - role: <strong>Research Intern</strong>
+      time: 2020.12 - 2021.03
+      company: SNU Co-design and Parallel Processing Lab 
       details: |
-        - 대학교 수강 계획 및 졸업요건 관리 서비스 SNUGH를 개발 및 운영
-        - Backend 개발과 DevOps를 맡아 웹사이트를 먼저 런칭한 이후 Mobile App 개발
-    - role: Android Developer
-      time: 2018 - 2019
+        - Studied automatic code generation of script language for service-oriented IoT platform using GPT-2.
+        - Developed a backend server of service-oriented IoT platform(about to be commercialized).
+        - Improved the latency of the inference API from 8 seconds to 1 second.
+        
+    - role: <strong>Software Engineer</strong>
+      time: 2020.08 - present
+      company: Waffle Studio
+      details: |
+        - Developed and operated 'SNUGH', a website that helps college students plan their courses beforehand and manage graduation requirements.
+        - Participated in backend development, mobile app development and DevOps management.
+        
+    - role: <strong>Software Engineer</strong>
+      time: 2019.03 - 2019.12
+      company: Melting Pot
+      details: |
+        - Developed 'Finger Call', an mobile application that helps people be on time by calculating late fees and sharing each other's current location in real time.
+        - Participated in mobile app development.
+        
+    - role: <strong>Software Engineer</strong>
+      time: 2018.03 - 2019.02
       company: KUCC
       details: |
-        - Android 세미나의 멘토를 맡아 Android 개발 전반과 MVVM, Clean Architecture 등을 교육
-        - 대학생 미팅 주선 및 장소 예약 어플 Meeting Playlist를 개발해 소규모 투자 유치에 성공
+        - Taught overall android development, clean code and clean architecture as the mentor of android seminar.
+        - Succeeded in attracting small investments for group blind date matching and restaurant reservation service named ‘Meeting Playlist’.
         
 projects:
     title: Projects
+    intro: |
+      If you want to check more about the details, please click **[here](https://shoveling-pig.github.io/online-portfolio/)**.
     assignments:
       - title: SNUGH
-        tagline: "A website and mobile app developed for course planning and graduation requirements management service for college students."
+        time: 2021.01 - present
+        company: Waffle Studio
+        tagline: |
+          - A website and mobile app developed to aid college students plan their courses and manage graduation requirements.
 
       - title: Proudly
-        tagline: "A mobile app developed for self-management scheduling service using photo authentication."
+        time: 2020.01 - 2020.07
+        company: SPT
+        tagline: |
+          - A mobile app developed for self-management alarm service using photo authentication.
 
       - title: Finger Call
-        tagline: "A mobile app developed for late expense management and real-time location sharing service within the group."
+        time: 2019.06 - 2019.12
+        company: Melting Pot
+        tagline: |
+          - A mobile app developed for late fee management and real-time location sharing service.
 
       - title: Meeting Playlist
-        tagline: "A mobile app developed for meeting matching and restaurant reservation service for college students."
+        time: 2018.03 - 2019.02
+        company: KUCC
+        tagline: |
+          - A mobile app developed for group blind date matching and restaurant reservation service for college students.
         
- skills:
+publications:
+    title: Certificates
+    papers:
+      - title: 정보처리산업기사
+        
+skills:
     title: Skills
-
     toolset:
-      - name: Android - Java, Kotlin, Kotlin DSL, RxJava, RxAndroid, Coroutine, DataBinding, Retrofit2, Room, Koin, MVVM, Clean Architecture
-        level: 80%
-
-      - name: Backend - Python, Django, DRF, MySQL, Redis, Docker, AWS(EC2, RDS, S3, Lambda, etc)
+      - name: Machine Learning
+        description: |
+          <br/>
+          - Numpy & Pandas
+          - Scikit-learn
+          - Pytorch
+          - TensorFlow
+          - Keras
+          - MLFlow
         level: 60%
 
-      - name: Machine Learning - Pandas, Scikit-learn, Pytorch, TensorFlow
-        level: 40%
+      - name: Backend
+        description: |
+          <br/>
+          - Python
+          - Django & DRF
+          - MySQL
+          - Redis
+          - RESTful API
+          - Docker & Docker Compose
+          - AWS(EC2, RDS, S3, Lambda, etc)
+        level: 50%
 
-      - name: ETC - Git, Jira, Trello, Figma, Slack, Notion
-        level: 100%
+      - name: Android
+        description: |
+          <br/>
+          - Java & Kotlin
+          - RxJava, Coroutine
+          - LiveData, DataBinding
+          - OKHttp, Retrofit2
+          - RoomDatabase
+          - Koin
+          - MVVM & Clean Architecture
+        level: 70%
+
+      - name: Collaboration
+        extra: <br/>I'm apt at using various collaboration tools for effective communication with other developers, UI/UX designers, Product Managers, etc.
+        description: |
+          <br/>
+          - Git
+          - Jira
+          - Trello
+          - Figma
+          - Slack
+          - Notion
+          - Stoplight
+        level: 80%
