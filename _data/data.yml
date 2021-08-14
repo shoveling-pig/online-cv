@@ -30,7 +30,7 @@ career-profile:
     title: Career Profile
     summary: |
       I’m a ML engineer interested in meta learning and transfer learning for few-shot learning.   
-      Currently I’m looking for an opportunity to work as 현역 산업기능요원. 
+      Currently I’m looking for an opportunity to work as a skilled industrial personnel. 
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
@@ -44,6 +44,14 @@ education:
       time: 2018.03 - 2019.02
         
 experiences:
+    - role: <strong>Backend Intern</strong>
+      time: 2021.03 - 2021.07
+      company: Almighty Medical Software Lab 
+      details: |
+        - Developed a survey website to evaluate the services of hospital staff.
+        - Participated in backend development and DevOps management.
+        - Led a study group about test-driven development with other interns.
+
     - role: <strong>Research Intern</strong>
       time: 2021.03 - 2021.07
       company: SNU Applied Data Science Lab 
@@ -86,6 +94,12 @@ projects:
     intro: |
       If you want to check more about the details, please click **[here](https://shoveling-pig.github.io/online-portfolio/)**.
     assignments:
+      - title: Smart Survey
+        time: 2021.07 - 2021.08
+        company: Almighty Medical Software Lab
+        tagline: |
+          - A website developed to manage surveys to evaluate the services of staff in hospitals.
+    
       - title: SNUGH
         time: 2021.01 - present
         company: Waffle Studio
@@ -138,7 +152,7 @@ skills:
           - Redis
           - RESTful API
           - Docker & Docker Compose
-          - AWS(EC2, RDS, S3, EB, Route53, Lambda, etc)
+          - AWS(EC2, EB, RDS, S3, Lambda, etc)
         level: 50%
 
       - name: Android
