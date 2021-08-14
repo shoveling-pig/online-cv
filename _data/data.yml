@@ -138,7 +138,7 @@ skills:
           - Redis
           - RESTful API
           - Docker & Docker Compose
-          - AWS(EC2, RDS, S3, Lambda, etc)
+          - AWS(EC2, RDS, S3, EB, Route53, Lambda, etc)
         level: 50%
 
       - name: Android
