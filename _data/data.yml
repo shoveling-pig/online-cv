@@ -45,7 +45,7 @@ education:
         
 experiences:
     - role: <strong>Research Intern</strong>
-      time: 2021.03 - present
+      time: 2021.03 - 2021.07
       company: SNU Applied Data Science Lab 
       details: |
         - Studied meta learning model for personalized diagnosis of cardiac abnormality using 12-lead ECG classification.
@@ -68,7 +68,7 @@ experiences:
         - Participated in backend development, mobile app development and DevOps management.
         
     - role: <strong>Software Engineer</strong>
-      time: 2019.03 - 2019.12
+      time: 2019.06 - 2019.12
       company: Melting Pot
       details: |
         - Developed 'Finger Call', an mobile application that helps people be on time by calculating late fees and sharing each other's current location in real time.
