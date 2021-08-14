@@ -1,13 +1,13 @@
 sidebar: 
     name: <strong>Minchan<br/>Kim</strong>
-    tagline: MLOps Engineer
+    tagline: ML Engineer
     avatar: profile.png
 
     email: shovelingpig@gmail.com
     phone: 010-3308-9805
-    website: shoveling-pig.github.io/about
     github: shoveling-pig
     linkedin: shovelingpig
+    website: shoveling-pig.github.io/about
 
     languages:
       - idiom: Korean
@@ -29,8 +29,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m a ML software engineer interested in meta learning and transfer learning for few-shot learning.   
-      Currently I’m looking for an opportunity to work as MLOps Engineer.  
+      I’m a ML engineer interested in meta learning and transfer learning for few-shot learning.   
+      Currently I’m looking for an opportunity to work as 현역 산업기능요원. 
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
