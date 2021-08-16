@@ -45,7 +45,7 @@ education:
         
 experiences:
     - role: <strong>Backend Intern</strong>
-      time: 2021.07 - 2021.08
+      time: 2021.06 - 2021.08
       company: Almighty Medical Software Lab 
       details: |
         - Developed a survey website to evaluate the services of hospital staff.
@@ -53,7 +53,7 @@ experiences:
         - Organized and led a study group for test-driven development.
 
     - role: <strong>Research Intern</strong>
-      time: 2021.03 - 2021.07
+      time: 2021.03 - 2021.06
       company: SNU Applied Data Science Lab 
       details: |
         - Studied meta learning model for personalized diagnosis of cardiac abnormality using 12-lead ECG classification.
