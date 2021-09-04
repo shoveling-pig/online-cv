@@ -1,6 +1,6 @@
 sidebar: 
     name: <strong>Minchan<br/>Kim</strong>
-    tagline: ML Engineer
+    tagline: AI Research Scientist
     avatar: profile.png
 
     email: shovelingpig@gmail.com
@@ -29,7 +29,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m a ML engineer interested in meta learning and transfer learning for few-shot learning.   
+      I’m a AI research scientist interested in meta learning and transfer learning for few-shot learning.   
       Currently I’m looking for an opportunity to work as a skilled industrial personnel. 
       
 education:
