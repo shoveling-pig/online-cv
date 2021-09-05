@@ -58,7 +58,7 @@ experiences:
       details: |
         - Studied meta learning model for personalized diagnosis of cardiac abnormality using 12-lead ECG classification.
         - Participated in the PhysioNet/CinC Challenge 2021.
-        - Optimized the architecture of transformer-based model and improved inference accuracy by more than 20%.
+        - Optimized the architecture of transformer-based model and improved inference accuracy by more than 20%(from 0.62829 to 0.76013).
         
     - role: <strong>Research Intern</strong>
       time: 2020.12 - 2021.03
@@ -66,7 +66,7 @@ experiences:
       details: |
         - Studied automatic code generation of script language for service-oriented IoT platform using GPT-2.
         - Developed a backend server of service-oriented IoT platform(about to be commercialized).
-        - Improved the latency of the inference API from 8 seconds to 1 second.
+        - Improved inference latency by more than 8 times(from 7683ms to 936ms).
         
     - role: <strong>Software Engineer</strong>
       time: 2020.08 - present
