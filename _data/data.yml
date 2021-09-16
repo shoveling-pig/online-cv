@@ -48,7 +48,7 @@ experiences:
       time: 2021.06 - 2021.08
       company: Almighty Medical Software Lab 
       details: |
-        - Developed a survey website to evaluate the services of hospital staff in one month, creating economic value of at least $20,000.
+        - Developed a survey website to evaluate the services of staff in hospitals, creating economic value of at least $20,000.
         - At Cashwork(MAU 6 million), a partner of the company, I redesigned the cash log table to a NoSQL structure and migrate it from RDS to DynamoDB.
         - As a result, infrastructure costs were saved by an average of 5% per month.
 
@@ -141,19 +141,19 @@ skills:
           - TensorFlow
           - Keras
           - MLFlow
-        level: 60%
+          - W&B
+        level: 70%
 
       - name: Backend
         description: |
           <br/>
           - Django & DRF
           - Node & Express
-          - MySQL
+          - MySQL, PostgreSQL
           - Redis
-          - RESTful API
           - Docker & Docker Compose
-          - AWS(EC2, EB, RDS, S3, Lambda, etc)
-        level: 50%
+          - AWS(EB, RDS, DynamoDB, S3, Elasti Cache, Lambda, etc)
+        level: 80%
 
       - name: Android
         description: |
@@ -165,7 +165,7 @@ skills:
           - RoomDatabase
           - Koin
           - MVVM & Clean Architecture
-        level: 70%
+        level: 60%
 
       - name: Collaboration
         extra: <br/>I'm apt at using various collaboration tools for effective communication with other developers, UI/UX designers, Product Managers, etc.
@@ -173,9 +173,10 @@ skills:
           <br/>
           - Git
           - Jira
+          - Swagger
+          - Stoplight
           - Trello
           - Figma
           - Slack
           - Notion
-          - Stoplight
-        level: 80%
+        level: 90%
