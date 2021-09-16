@@ -48,9 +48,9 @@ experiences:
       time: 2021.06 - 2021.08
       company: Almighty Medical Software Lab 
       details: |
-        - Developed a survey website to evaluate the services of staff in hospitals, creating economic value of at least $20,000.
-        - At Cashwork(MAU 6 million), a partner of the company, I redesigned the cash log table to a NoSQL structure and migrate it from RDS to DynamoDB.
-        - As a result, infrastructure costs were saved by an average of 5% per month.
+        - Developed a survey website to evaluate the services of staff in hospitals, creating economic value of more than $20,000.
+        - At Cashwalk (MAU 6 million), a partner of the company, I redesigned the cash log table to an optimized NoSQL schema and migrate it from RDS to DynamoDB.
+        - As a result, cloud infra costs were saved by an average of 5% per month.
 
     - role: <strong>Research Intern</strong>
       time: 2021.03 - 2021.06
