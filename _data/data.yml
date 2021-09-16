@@ -152,7 +152,7 @@ skills:
           - MySQL, PostgreSQL
           - Redis
           - Docker & Docker Compose
-          - AWS(EB, RDS, DynamoDB, S3, Elasti Cache, Lambda, etc)
+          - AWS (EB, RDS, DynamoDB, S3, Elasti Cache, Lambda, etc)
         level: 80%
 
       - name: Android
