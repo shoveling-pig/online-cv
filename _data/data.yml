@@ -46,10 +46,10 @@ education:
 work-experience:
     - role: <strong>Backend Lead</strong>
       time: 2021.07 - 2021.10
-      company: Nudge Healthcare
+      company: Nudge Healthcare & Smart Doctor
       details: |
         - Contributed to an open source project called 'Dynamize', a promise-based Node.js ORM for DynamoDB inspired by Sequelize.
-        - At Cashwalk (MAU 6 million), a partner of the company, I redesigned the cash log table to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
+        - At Cashwalk (MAU 6 million), I redesigned the cash log table to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
         - As a result, cloud infra costs were saved by an average of 5% per month.
 
     - role: <strong>Research Intern</strong>
