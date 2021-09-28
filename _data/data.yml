@@ -127,9 +127,6 @@ projects:
         
 open-source:
     title: Open Source
-
-honors-and-awards:
-    title: Honors & Awards
         
 certificates:
     title: Certificates
@@ -150,7 +147,7 @@ skills:
           - TensorRT
           - Kubeflow & MLFlow
           - Weights and Biases
-        level: 70%
+        level: 60%
 
       - name: Backend
         description: |
@@ -158,31 +155,31 @@ skills:
           - Language (Python, JS)
           - Django & DRF
           - Node & Express
+          - ORM (Sequelize, Dynamize)
           - DBMS (MySQL, PostgreSQL, MongoDB, Redis, etc)
         level: 80%
       
       - name: Infrastructure
         description: |
           <br/>
-          - Docker
-          - Docker Compose
-          - Kubernetes  
-          - Jenkins
-          - AWS (EB, RDS, DynamoDB, S3, Elasti Cache, Lambda, CloudFront etc)
+          - Docker & Docker Compose
+          - Orchestration (k8s) 
+          - CI/CD (Github Action, Jenkins, CircleCI)
+          - AWS (EC2, EB, RDS, DynamoDB, ElastiCache, S3, CloudFront, Lambda, Code Pipeline, Route53, CloudWatch, etc)
           - GCP
-        level: 80%
+        level: 70%
 
       - name: Android
         description: |
           <br/>
           - Language (Java, Kotlin)
-          - RxJava, Coroutine
-          - LiveData, DataBinding
-          - OKHttp, Retrofit2
-          - RoomDatabase
-          - Koin
+          - Asynchronous Programming (RxJava, Coroutine)
+          - Data Binding (LiveData)
+          - REST Client (OKHttp, Retrofit)
+          - ORM (Room)
+          - DI (Koin, Dagger)
           - MVVM & Clean Architecture
-        level: 60%
+        level: 50%
 
       - name: Collaboration
         extra: <br/>I'm apt at using various collaboration tools for effective communication with other developers, UI/UX designers, product managers, etc.
@@ -195,3 +192,6 @@ skills:
           - UI/UX Design (Figma, Zeplin)
           - Communicaiton (Slack, Microsoft Teams)
         level: 100%
+
+honors-and-awards:
+    title: Honors & Awards
