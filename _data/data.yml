@@ -43,91 +43,70 @@ education:
         Computer Science and Engineering
       time: 2018.03 - 2019.02
         
-experiences:
-    - role: <strong>Backend Intern</strong>
-      time: 2021.06 - 2021.08
-      company: Almighty Medical Software Lab 
+work-experience:
+    - role: <strong>Backend Engineer</strong>
+      time: 2021.07 - 2021.10
+      company: Nudge Healthcare & Smart Doctor
       details: |
-        - Developed a survey website to evaluate the services of hospital staff.
-        - Participated in backend development and DevOps management.
-        - Organized and led a study group for test-driven development.
+        - Redesigned the cash log table of Cashwalk (MAU 6 million) to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
+        - As a result, cloud infra costs were saved by an average of 5% per month.
+        - Developed a survey website to evaluate the services of hospital staff, creating economic value of more than $20,000.
 
+extracurricular-activity:
     - role: <strong>Research Intern</strong>
-      time: 2021.03 - 2021.06
+      time: 2021.03 - 2021.07
       company: SNU Applied Data Science Lab 
       details: |
         - Studied meta learning model for personalized diagnosis of cardiac abnormality using 12-lead ECG classification.
         - Participated in the PhysioNet/CinC Challenge 2021.
-        - Optimized the architecture of transformer-based model and improved inference accuracy by more than 20%.
+        - Optimized the architecture and hyperparameters of transformer-based model and improved inference accuracy by more than 20% (from 0.62829 to 0.76013).
         
     - role: <strong>Research Intern</strong>
       time: 2020.12 - 2021.03
       company: SNU Co-design and Parallel Processing Lab 
       details: |
         - Studied automatic code generation of script language for service-oriented IoT platform using GPT-2.
-        - Developed a backend server of service-oriented IoT platform(about to be commercialized).
-        - Improved the latency of the inference API from 8 seconds to 1 second.
+        - Developed a backend server of service-oriented IoT platform (about to be commercialized).
+        - Applied the singleton pattern and TensorRT to the model loadiing process and improved inference latency by more than 8 times (from 7683ms to 936ms).
         
     - role: <strong>Software Engineer</strong>
       time: 2020.08 - present
-      company: Waffle Studio
+      company: Waffle Studio(SNU SW Development Club)
       details: |
-        - Developed and operated 'SNUGH', a website that helps college students plan their courses beforehand and manage graduation requirements.
+        - Developed 'SNUGH', a website that helps college students plan their courses beforehand and manage graduation requirements.
         - Participated in backend development, mobile app development and DevOps management.
+    
+    - role: <strong>Software Engineer</strong>
+      time: 2020.01 - 2020.07
+      company: SPT (SNU Mobile App Development Team)
+      details: |
+          - Developed 'Proudly', a mobile app developed for self-management alarm service using photo authentication.
+          - Participated in mobile app development.
         
     - role: <strong>Software Engineer</strong>
       time: 2019.06 - 2019.12
-      company: Melting Pot
+      company: Melting Pot (SNU Startup Club)
       details: |
         - Developed 'Finger Call', an mobile application that helps people be on time by calculating late fees and sharing each other's current location in real time.
         - Participated in mobile app development.
         
     - role: <strong>Software Engineer</strong>
       time: 2018.03 - 2019.02
-      company: KUCC
+      company: KUCC (KU Computer Club)
       details: |
         - Taught overall android development, clean code and clean architecture as the mentor of android seminar.
-        - Succeeded in attracting small investments for group blind date matching and restaurant reservation service named ‘Meeting Playlist’.
+        - Succeeded in attracting small investments for group blind date matching and restaurant reservation service named ‘Meeting Playlist’.    
         
-projects:
-    title: Projects
-    intro: |
-      If you want to check more about the details, please click **[here](https://shoveling-pig.github.io/online-portfolio/)**.
-    assignments:
-      - title: Smart Survey
-        time: 2021.07 - 2021.08
-        company: Almighty Medical Software Lab
-        tagline: |
-          - A website developed to manage surveys to evaluate the services of staff in hospitals.
-    
-      - title: SNUGH
-        time: 2021.01 - present
-        company: Waffle Studio
-        tagline: |
-          - A website and mobile app developed to aid college students plan their courses and manage graduation requirements.
-
-      - title: Proudly
-        time: 2020.01 - 2020.07
-        company: SPT
-        tagline: |
-          - A mobile app developed for self-management alarm service using photo authentication.
-
-      - title: Finger Call
-        time: 2019.06 - 2019.12
-        company: Melting Pot
-        tagline: |
-          - A mobile app developed for late fee management and real-time location sharing service.
-
-      - title: Meeting Playlist
-        time: 2018.03 - 2019.02
-        company: KUCC
-        tagline: |
-          - A mobile app developed for group blind date matching and restaurant reservation service for college students.
+open-source:
+    title: Open Source
+    items:
+      - title: Dynamize
+        details: A promise-based Node.js ORM for DynamoDB inspired by Sequelize.
         
-publications:
+certificates:
     title: Certificates
-    papers:
-      - title: 정보처리산업기사
+    items:
+      - title: Industrial Engineer Information Processing (HRDK)
         
 skills:
     title: Skills
@@ -135,47 +114,69 @@ skills:
       - name: Machine Learning
         description: |
           <br/>
+          - Language (Python, MATLAB)
           - Numpy & Pandas
           - Scikit-learn
           - Pytorch
-          - TensorFlow
-          - Keras
-          - MLFlow
+          - TensorFlow & Keras
+          - TensorRT
+          - Kubeflow & MLFlow
+          - Weights and Biases
         level: 60%
 
       - name: Backend
         description: |
           <br/>
+          - Language (Python, JS)
           - Django & DRF
           - Node & Express
-          - MySQL
-          - Redis
-          - RESTful API
+          - ORM (Sequelize, Dynamize)
+          - DBMS (MySQL, PostgreSQL, MongoDB, Redis, etc)
+        level: 80%
+      
+      - name: Infrastructure
+        description: |
+          <br/>
           - Docker & Docker Compose
-          - AWS(EC2, EB, RDS, S3, Lambda, etc)
-        level: 50%
+          - Orchestration (k8s) 
+          - CI/CD (Github Action, Jenkins, CircleCI)
+          - AWS (EC2, EB, RDS, DynamoDB, ElastiCache, S3, CloudFront, Lambda, Code Pipeline, Route53, CloudWatch, etc)
+          - GCP
+        level: 70%
 
       - name: Android
         description: |
           <br/>
-          - Java & Kotlin
-          - RxJava, Coroutine
-          - LiveData, DataBinding
-          - OKHttp, Retrofit2
-          - RoomDatabase
-          - Koin
+          - Language (Java, Kotlin)
+          - Asynchronous Programming (RxJava, Coroutine)
+          - Data Binding (LiveData)
+          - REST Client (OKHttp, Retrofit)
+          - ORM (Room)
+          - DI (Koin, Dagger)
           - MVVM & Clean Architecture
-        level: 70%
+        level: 50%
 
       - name: Collaboration
-        extra: <br/>I'm apt at using various collaboration tools for effective communication with other developers, UI/UX designers, Product Managers, etc.
+        extra: <br/>I'm apt at using various collaboration tools for effective communication with other developers, UI/UX designers, product managers, etc.
         description: |
           <br/>
-          - Git
-          - Jira
-          - Trello
-          - Figma
-          - Slack
-          - Notion
-          - Stoplight
-        level: 80%
+          - VCS (Git, GitHub, GitLab)
+          - API Docs (Swagger, Postman, Stoplight)
+          - Wiki (Notion, Confluence)
+          - Issue Tracking (Jira, Trello)
+          - UI/UX Design (Figma, Zeplin)
+          - Communicaiton (Slack, Microsoft Teams)
+        level: 100%
+
+# honors-and-awards:
+#     title: Honors & Awards
+#     items:
+#       - name: IEEE SMC
+#         time: 2021.10.17
+#         details: 1st Place
+
+# publications:
+#     title: Publications
+
+# presentations:
+#     title: Presentations
