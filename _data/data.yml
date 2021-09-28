@@ -135,30 +135,44 @@ skills:
       - name: Machine Learning
         description: |
           <br/>
-          - Numpy & Pandas
+          - Numpy
+          - Pandas
           - Scikit-learn
           - Pytorch
           - TensorFlow
           - Keras
           - MLFlow
-          - W&B
+          - Weight & Bias
         level: 70%
 
       - name: Backend
         description: |
           <br/>
-          - Django & DRF
-          - Node & Express
-          - MySQL, PostgreSQL
+          - Django
+          - DRF
+          - Node
+          - Express
+          - MySQL
+          - PostgreSQL
           - Redis
-          - Docker & Docker Compose
+        level: 80%
+      
+      - name: Infrastructure
+        description: |
+          <br/>
+          - Docker
+          - Docker Compose
+          - Kubernetes  
+          - Jenkins
           - AWS (EB, RDS, DynamoDB, S3, Elasti Cache, Lambda, etc)
+          - GCP
         level: 80%
 
       - name: Android
         description: |
           <br/>
-          - Java & Kotlin
+          - Java
+          - Kotlin
           - RxJava, Coroutine
           - LiveData, DataBinding
           - OKHttp, Retrofit2
