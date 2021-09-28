@@ -44,13 +44,13 @@ education:
       time: 2018.03 - 2019.02
         
 work-experience:
-    - role: <strong>Backend Lead</strong>
+    - role: <strong>Backend Engineer</strong>
       time: 2021.07 - 2021.10
       company: Nudge Healthcare & Smart Doctor
       details: |
-        - Contributed to an open source project called 'Dynamize', a promise-based Node.js ORM for DynamoDB inspired by Sequelize.
-        - At Cashwalk (MAU 6 million), I redesigned the cash log table to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
+        - Redesigned the cash log table of Cashwalk (MAU 6 million) to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
         - As a result, cloud infra costs were saved by an average of 5% per month.
+        - Developed a survey website to evaluate the services of hospital staff, creating economic value of more than $20,000.
 
 extracurricular-activity:
     - role: <strong>Research Intern</strong>
@@ -71,65 +71,37 @@ extracurricular-activity:
         
     - role: <strong>Software Engineer</strong>
       time: 2020.08 - present
-      company: Waffle Studio
+      company: Waffle Studio(SNU SW Development Club)
       details: |
-        - Developed and operated 'SNUGH', a website that helps college students plan their courses beforehand and manage graduation requirements.
+        - Developed 'SNUGH', a website that helps college students plan their courses beforehand and manage graduation requirements.
         - Participated in backend development, mobile app development and DevOps management.
+    
+    - role: <strong>Software Engineer</strong>
+      time: 2020.01 - 2020.07
+      company: SPT (SNU Mobile App Development Team)
+      details: |
+          - Developed 'Proudly', a mobile app developed for self-management alarm service using photo authentication.
+          - Participated in mobile app development.
         
     - role: <strong>Software Engineer</strong>
       time: 2019.06 - 2019.12
-      company: Melting Pot
+      company: Melting Pot (SNU Startup Club)
       details: |
         - Developed 'Finger Call', an mobile application that helps people be on time by calculating late fees and sharing each other's current location in real time.
         - Participated in mobile app development.
         
     - role: <strong>Software Engineer</strong>
       time: 2018.03 - 2019.02
-      company: KUCC
+      company: KUCC (KU Computer Club)
       details: |
         - Taught overall android development, clean code and clean architecture as the mentor of android seminar.
-        - Succeeded in attracting small investments for group blind date matching and restaurant reservation service named ‘Meeting Playlist’.
-        
-projects:
-    title: Projects
-    intro: |
-      If you want to check more about the details, please click **[here](https://shoveling-pig.github.io/online-portfolio/)**.
-    assignments:
-      - title: Smart Survey Premium
-        time: 2021.07 - 2021.10
-        company: Nudge Healthcare & Smart Doctor
-        tagline: |
-          - A website developed to manage surveys to evaluate the services of staff in hospitals.
-    
-      - title: SNUGH
-        time: 2021.01 - present
-        company: Waffle Studio
-        tagline: |
-          - A website and mobile app developed to aid college students plan their courses and manage graduation requirements.
-
-      - title: Proudly
-        time: 2020.01 - 2020.07
-        company: SPT
-        tagline: |
-          - A mobile app developed for self-management alarm service using photo authentication.
-
-      - title: Finger Call
-        time: 2019.06 - 2019.12
-        company: Melting Pot
-        tagline: |
-          - A mobile app developed for late fee management and real-time location sharing service.
-
-      - title: Meeting Playlist
-        time: 2018.03 - 2019.02
-        company: KUCC
-        tagline: |
-          - A mobile app developed for group blind date matching and restaurant reservation service for college students.
+        - Succeeded in attracting small investments for group blind date matching and restaurant reservation service named ‘Meeting Playlist’.    
         
 open-source:
     title: Open Source
     items:
       - title: Dynamize
-        details: A promise-based node.js ORM inspired by Sequelize.
+        details: A promise-based Node.js ORM for DynamoDB inspired by Sequelize.
         
 certificates:
     title: Certificates
@@ -196,11 +168,15 @@ skills:
           - Communicaiton (Slack, Microsoft Teams)
         level: 100%
 
-honors-and-awards:
-    title: Honors & Awards
+# honors-and-awards:
+#     title: Honors & Awards
+#     items:
+#       - name: IEEE SMC
+#         time: 2021.10.17
+#         details: 1st Place
 
-publications:
-    title: Publications
+# publications:
+#     title: Publications
 
-presentations:
-    title: Presentations
+# presentations:
+#     title: Presentations
