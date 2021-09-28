@@ -142,26 +142,23 @@ skills:
       - name: Machine Learning
         description: |
           <br/>
-          - Numpy
-          - Pandas
+          - Language (Python, MATLAB)
+          - Numpy & Pandas
           - Scikit-learn
           - Pytorch
-          - TensorFlow
-          - Keras
-          - MLFlow
-          - Weight & Bias
+          - TensorFlow & Keras
+          - TensorRT
+          - Kubeflow & MLFlow
+          - Weights and Biases
         level: 70%
 
       - name: Backend
         description: |
           <br/>
-          - Django
-          - DRF
-          - Node
-          - Express
-          - MySQL
-          - PostgreSQL
-          - Redis
+          - Language (Python, JS)
+          - Django & DRF
+          - Node & Express
+          - DBMS (MySQL, PostgreSQL, MongoDB, Redis, etc)
         level: 80%
       
       - name: Infrastructure
@@ -178,8 +175,7 @@ skills:
       - name: Android
         description: |
           <br/>
-          - Java
-          - Kotlin
+          - Language (Java, Kotlin)
           - RxJava, Coroutine
           - LiveData, DataBinding
           - OKHttp, Retrofit2
