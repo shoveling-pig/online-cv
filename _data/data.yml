@@ -164,7 +164,7 @@ skills:
           - Docker Compose
           - Kubernetes  
           - Jenkins
-          - AWS (EB, RDS, DynamoDB, S3, Elasti Cache, Lambda, etc)
+          - AWS (EB, RDS, DynamoDB, S3, Elasti Cache, Lambda, CloudFront etc)
           - GCP
         level: 80%
 
