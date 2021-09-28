@@ -52,6 +52,7 @@ work-experience:
         - At Cashwalk (MAU 6 million), I redesigned the cash log table to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
         - As a result, cloud infra costs were saved by an average of 5% per month.
 
+extracurricular-activity:
     - role: <strong>Research Intern</strong>
       time: 2021.03 - 2021.07
       company: SNU Applied Data Science Lab 
@@ -124,10 +125,16 @@ projects:
         tagline: |
           - A mobile app developed for group blind date matching and restaurant reservation service for college students.
         
-publications:
+open-source:
+    title: Open Source
+
+honors-and-awards:
+    title: Honors & Awards
+        
+certificates:
     title: Certificates
-    papers:
-      - title: 정보처리산업기사
+    items:
+      - title: Industrial Engineer Information Processing (HRDK)
         
 skills:
     title: Skills
@@ -182,15 +189,13 @@ skills:
         level: 60%
 
       - name: Collaboration
-        extra: <br/>I'm apt at using various collaboration tools for effective communication with other developers, UI/UX designers, Product Managers, etc.
+        extra: <br/>I'm apt at using various collaboration tools for effective communication with other developers, UI/UX designers, product managers, etc.
         description: |
           <br/>
-          - Git
-          - Jira
-          - Swagger
-          - Stoplight
-          - Trello
-          - Figma
-          - Slack
-          - Notion
-        level: 90%
+          - VCS (Git, GitHub, GitLab)
+          - API Docs (Swagger, Postman, Stoplight)
+          - Wiki (Notion, Confluence)
+          - Issue Tracking (Jira, Trello)
+          - UI/UX Design (Figma, Zeplin)
+          - Communicaiton (Slack, Microsoft Teams)
+        level: 100%
