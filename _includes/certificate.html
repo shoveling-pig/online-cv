@@ -19,13 +19,11 @@
   {% for item in certificate.items %}
     <div class="item">
 
-      <span class="item-title">
-        {{ item.title }}
-      </span>
-
-      {% if item.details %}
-      - <span class="item-details">{{ item.details }}</span>
-      {% endif %}
+      <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title">{{ item.title }}</h3>
+      </div><!--//upper-row-->
+      </div>
 
     </div><!--//item-->
   {% endfor %}
