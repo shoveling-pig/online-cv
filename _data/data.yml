@@ -107,7 +107,8 @@ certificate:
     title: Certificate
     items:
       - title: Industrial Engineer Information Processing
-      - company: HRDK
+      - details: |
+          HRDK (Human Resources Development Service of Korea)
         
 skills:
     title: Skills
