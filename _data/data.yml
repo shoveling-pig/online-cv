@@ -47,7 +47,7 @@ work-experience:
       time: 2021.07 - 2021.10
       company: Nudge Healthcare & Smart Doctor
       details: |
-        - Redesigned the cash log table of 'Cashwalk' (MAU 6 million) to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
+        - Redesigned the cash log table of [Cashwalk](https://play.google.com/store/apps/details?id=com.cashwalk.cashwalk&hl=en&gl=US) (MAU 6 million) to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
         - As a result, cloud infra costs were saved by an average of 9% per month.
         - Developed a [survey website](https://shoveling-pig.github.io/portfolio/2021/08/07/portfolio-smartsurvey/) to evaluate the services of hospital staff, creating economic value of more than $20,000.
 
