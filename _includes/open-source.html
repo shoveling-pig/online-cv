@@ -19,17 +19,8 @@
   {% for item in open-source.items %}
     <div class="item">
 
-      <span class="item-title">
-        {% if item.link %}
-        <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
-        {% else %}
-        {{ item.title }}
-        {% endif %}
-      </span>
-
-      {% if item.details %}
-      - <span class="item-details">{{ item.details }}</span>
-      {% endif %}
+      <h3 class="level-title"><strong>{{ item.title }}</strong></h3>
+      <div class="level-description">{{ item.details | markdownify }}</div>
 
     </div><!--//item-->
   {% endfor %}
