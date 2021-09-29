@@ -1,22 +1,22 @@
-{% assign certificates = site.data.data.certificates %}
-{% if certificates %}
-<section class="section certificates-section">
+{% assign certificate = site.data.data.certificate %}
+{% if certificate %}
+<section class="section certificate-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
-    {{ certificates.title }}
+    {{ certificate.title }}
   </h2>
 
-  {% if certificates.intro %}
+  {% if certificate.intro %}
   <div class="intro">
-      <p>{{ certificates.intro }}</p>
+      <p>{{ certificate.intro }}</p>
   </div><!--//intro-->
   {% endif %}
 
-  {% for item in certificates.items %}
+  {% for item in certificate.items %}
     <div class="item">
 
       <span class="item-title">
