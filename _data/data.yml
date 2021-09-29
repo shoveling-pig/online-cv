@@ -100,8 +100,7 @@ open-source:
     title: Open Source
     items:
       - title: Dynamize
-        details: |
-          - A promise-based Node.js ORM for DynamoDB inspired by Sequelize.
+        details: A promise-based Node.js ORM for DynamoDB inspired by Sequelize.
         
 certificate:
     title: Certificate
