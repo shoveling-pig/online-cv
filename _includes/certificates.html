@@ -1,31 +1,33 @@
-{% assign publications = site.data.data.publications %}
-{% if publications %}
-<section class="section publications-section">
+{% assign certificates = site.data.data.certificates %}
+{% if certificates %}
+<section class="section certificates-section">
 
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
-    <strong>{{ publications.title }}<strong>
+    {{ certificates.title }}
   </h2>
 
-  {% if publications.intro %}
+  {% if certificates.intro %}
   <div class="intro">
-    {{ publications.intro | markdownify }}
+      <p>{{ certificates.intro }}</p>
   </div><!--//intro-->
   {% endif %}
 
-  {% for publication in publications.papers %}
-  <div class="item">
-    {% if publication.link %}
-      <li><a href="{{ publication.link }}"><strong>{{ publication.title }}</strong></a></li>
-    {% else %}
-      <li><strong>{{ publication.title }}</strong></li>
-    {% endif %}
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
-  </div><!--//item-->
+  {% for item in certificates.items %}
+    <div class="item">
+
+      <span class="item-title">
+        {{ item.title }}
+      </span>
+
+      {% if item.details %}
+      - <span class="item-details">{{ item.details }}</span>
+      {% endif %}
+
+    </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
