@@ -1,41 +1,37 @@
-{% assign projects = site.data.data.projects %}
-{% if projects %}
-<section class="section projects-section">
-
+{% assign extracurricular-activity = site.data.data.extracurricular-activity %}
+{% if extracurricular-activity %}
+<section class="section extracurricular-activity-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    <strong>{{ projects.title }}</strong>
+    Extracurricular Activities
   </h2>
 
-  {% if projects.intro %}
-  <div class="intro">
-      <p>{{ projects.intro | markdownify }}</p>
-  </div><!--//intro-->
-  {% endif %}
+  {% for experience in extracurricular-activity %}
+  <div class="item">
 
-  {% for project in projects.assignments %}
-    <div class="item">
-      
-      <div class="meta">
+    <div class="meta">
 
       <div class="upper-row">
-        <h3 class="project-title"><strong>{{ project.title }}</strong></h3>
-        <div class="time">{{ project.time }}</div>
+        <h3 class="job-title">{{ experience.role }}</h3>
+        <div class="time">{{ experience.time }}</div>
       </div><!--//upper-row-->
 
-      <div class="company">{{ project.company }}</div>
+      <div class="company">{{ experience.company }}</div>
 
     </div><!--//meta-->
 
-      {% if project.tagline %}
-      <span class="project-tagline">{{ project.tagline | markdownify }}</span>
-      {% endif %}
+    {% if experience.details %}
+    <div class="details">
+      {{ experience.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
 
-    </div><!--//item-->
+  </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
 {% endif %}
+
