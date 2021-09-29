@@ -49,22 +49,22 @@ work-experience:
       details: |
         - Redesigned the cash log table of 'Cashwalk' (MAU 6 million) to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
         - As a result, cloud infra costs were saved by an average of 9% per month.
-        - Developed a survey website to evaluate the services of hospital staff, creating economic value of more than $20,000.
+        - Developed a [survey website](https://shoveling-pig.github.io/portfolio/2021/08/07/portfolio-smartsurvey/) to evaluate the services of hospital staff, creating economic value of more than $20,000.
 
 extracurricular-activity:
     - role: <strong>Research Intern</strong>
       time: 2021.03 - 2021.07
-      company: SNU Applied Data Science Lab 
+      company: [SNU Applied Data Science Lab](http://adsl.snu.ac.kr/) 
       details: |
-        - Studied meta learning model for personalized diagnosis of cardiac abnormality using 12-lead ECG classification.
+        - Studied [meta learning model](https://shoveling-pig.github.io/portfolio/2021/06/27/portfolio-adsl/) for personalized diagnosis of cardiac abnormality using 12-lead ECG classification.
         - Participated in the PhysioNet/CinC Challenge 2021.
         - Optimized the architecture and hyperparameters of transformer-based model and improved inference accuracy by more than 20% (from 0.62829 to 0.76013).
         
     - role: <strong>Research Intern</strong>
       time: 2020.12 - 2021.03
-      company: SNU Co-design and Parallel Processing Lab 
+      company: [SNU Co-design and Parallel Processing Lab](https://cse.snu.ac.kr/lab/%ED%86%B5%ED%95%A9%EC%84%A4%EA%B3%84-%EB%B0%8F-%EB%B3%91%EB%A0%AC-%EC%B2%98%EB%A6%AC-%EC%97%B0%EA%B5%AC%EC%8B%A4)
       details: |
-        - Studied automatic code generation of script language for service-oriented IoT platform using GPT-2.
+        - Studied [automatic code generation](https://shoveling-pig.github.io/portfolio/2021/03/30/portfolio-capl/) of script language for service-oriented IoT platform using GPT-2.
         - Developed a backend server of service-oriented IoT platform (about to be commercialized).
         - Applied the singleton pattern and TensorRT to the model loadiing process and improved inference latency by more than 8 times (from 7683ms to 936ms).
         
@@ -72,21 +72,21 @@ extracurricular-activity:
       time: 2020.08 - present
       company: Waffle Studio(SNU SW Development Club)
       details: |
-        - Developed 'SNUGH', a website that helps college students plan their courses beforehand and manage graduation requirements.
+        - Developed [SNUGH](https://shoveling-pig.github.io/portfolio/2021/08/01/portfolio-snugh/), a website that helps college students plan their courses beforehand and manage graduation requirements.
         - Participated in backend development, mobile app development and DevOps management.
     
     - role: <strong>Software Engineer</strong>
       time: 2020.01 - 2020.07
       company: SPT (SNU Mobile App Development Team)
       details: |
-          - Developed 'Proudly', a mobile app developed for self-management alarm service using photo authentication.
+          - Developed [Proudly](https://shoveling-pig.github.io/portfolio/2020/08/24/portfolio-proudly/), a mobile app developed for self-management alarm service using photo authentication.
           - Participated in mobile app development.
         
     - role: <strong>Software Engineer</strong>
       time: 2019.06 - 2019.12
       company: Melting Pot (SNU Startup Club)
       details: |
-        - Developed 'Finger Call', an mobile application that helps people be on time by calculating late fees and sharing each other's current location in real time.
+        - Developed [Finger Call](https://shoveling-pig.github.io/portfolio/2019/12/13/portfolio-fingercall/), an mobile application that helps people be on time by calculating late fees and sharing each other's current location in real time.
         - Participated in mobile app development.
         
     - role: <strong>Software Engineer</strong>
