@@ -19,10 +19,11 @@
   {% for item in certificate.items %}
     <div class="item">
 
-      <h3 class="level-title"><strong>{{ item.title }}</strong></h3>
-      {% if item.details %}
-      <div class="level-description">{{ item.details | markdownify }}</div>
-      {% endif %}
+      <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title">{{ item.title }}</h3>
+      </div><!--//upper-row-->
+      </div>
 
     </div><!--//item-->
   {% endfor %}
