@@ -19,8 +19,15 @@
   {% for item in open-source.items %}
     <div class="item">
 
-      <h3 class="level-title"><strong>{{ item.title }}</strong></h3>
-      <div class="level-description">{{ item.details | markdownify }}</div>
+      <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title">{{ item.title }}</h3>
+      </div><!--//upper-row-->
+      </div>
+      
+      <div class="details">
+      {{ item.details | markdownify }}
+      </div>
 
     </div><!--//item-->
   {% endfor %}
