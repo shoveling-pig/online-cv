@@ -70,7 +70,7 @@ extracurricular-activity:
         
     - role: <strong>Software Engineer</strong>
       time: 2020.08 - present
-      company: Waffle Studio(SNU SW Development Club)
+      company: Waffle Studio (SNU SW Development Club)
       details: |
         - Developed [SNUGH](https://shoveling-pig.github.io/portfolio/2021/08/01/portfolio-snugh/), a website that helps college students plan their courses beforehand and manage graduation requirements.
         - Participated in backend development, mobile app development and DevOps management.
