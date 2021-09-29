@@ -105,7 +105,8 @@ open-source:
 certificate:
     title: Certificate
     items:
-      - title: Industrial Engineer Information Processing (HRDK)
+      - title: Industrial Engineer Information Processing
+      - company: HRDK
         
 skills:
     title: Skills
