@@ -15,13 +15,12 @@ h1, h2, h3, h4, h5, h6  {
 
 a {
     color: darken($theme-color, 15%);
-    text-decoration: underline;
     &:hover {
         text-decoration: underline;
         color: darken($theme-color, 30%);
     }
     &:focus {
-        text-decoration: underline;
+        text-decoration: none;
     }
 }
 
@@ -162,16 +161,16 @@ p {
         text-transform: uppercase;
         font-size: 20px;
         font-weight: 500;
+        color: darken($theme-color, 15%);
         position: relative;
         margin-top: 0;
         margin-bottom: 20px;
-        color: darken($theme-color, 15%);
     }
     .section {
         margin-bottom: 60px;
     }
 
-    .experiences-section, .educations-section {
+    .work-experience-section, .extracurricular-activity-section, .education-section {
         .item {
             margin-bottom: 30px;
         }
@@ -199,13 +198,14 @@ p {
         color: $text-grey;
     }
 
-    .project-title {
+    .item-title {
         font-size: 16px;
         font-weight: 400;
         margin-top: 0;
         margin-bottom: 5px;
+	color: darken($theme-color, 15%);
     }
-    .projects-section {
+    .open-source-section, .certificates-section {
         .intro {
             margin-bottom: 30px;
         }
@@ -240,15 +240,19 @@ p {
     .item {
         margin-bottom: 15px;
         overflow: hidden;
-        .level-extra {
-            font-size: 14px;
-            color: $text-grey;
-        }
     }
     .level-title {
         font-size: 14px;
         margin-top: 0;
         margin-bottom: 12px;
+    }
+    .level-bar {
+        height: 12px;
+        background: $smoky-white;
+    }
+    .level-bar-inner {
+        height: 12px;
+        background: lighten($theme-color, 15%);
     }
 }
 
