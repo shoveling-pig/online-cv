@@ -29,8 +29,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m an AI research scientist interested in meta learning and transfer learning for few-shot learning.   
-      Currently I’m looking for an opportunity to work as a skilled industrial personnel. 
+      I’m an AI research scientist interested in meta learning and transfer learning for few-shot learning. Currently I’m looking for an opportunity to work as a skilled industrial personnel. 
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
@@ -48,7 +47,7 @@ work-experience:
       time: 2021.07 - 2021.10
       company: Nudge Healthcare & Smart Doctor
       details: |
-        - Redesigned the cash log table of Cashwalk (MAU 6 million) to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
+        - Redesigned the cash log table of 'Cashwalk' (MAU 6 million) to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
         - As a result, cloud infra costs were saved by an average of 5% per month.
         - Developed a survey website to evaluate the services of hospital staff, creating economic value of more than $20,000.
 
@@ -103,8 +102,8 @@ open-source:
       - title: Dynamize
         details: A promise-based Node.js ORM for DynamoDB inspired by Sequelize.
         
-certificates:
-    title: Certificates
+certificate:
+    title: Certificate
     items:
       - title: Industrial Engineer Information Processing (HRDK)
         
@@ -175,8 +174,8 @@ skills:
 #         time: 2021.10.17
 #         details: 1st Place
 
-# publications:
-#     title: Publications
+# publication:
+#     title: Publication
 
-# presentations:
-#     title: Presentations
+# presentation:
+#     title: Presentation
