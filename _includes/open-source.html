@@ -1,1 +1,38 @@
+{% assign open-source = site.data.data.open-source %}
+{% if open-source %}
+<section class="section open-source-section">
 
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ open-source.title }}
+  </h2>
+
+  {% if open-source.intro %}
+  <div class="intro">
+      <p>{{ open-source.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for item in open-source.items %}
+    <div class="item">
+
+      <span class="item-title">
+        {% if item.link %}
+        <a href="{{ item.link }}" target="_blank">{{ item.title }}</a>
+        {% else %}
+        {{ item.title }}
+        {% endif %}
+      </span>
+
+      {% if item.details %}
+      - <span class="item-details">{{ item.details }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
