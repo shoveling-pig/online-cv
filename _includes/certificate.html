@@ -19,12 +19,10 @@
   {% for item in certificate.items %}
     <div class="item">
 
-      <span class="item-title">
-        {{ item.title }}
-      </span>
+      <h3 class="level-title"><strong>{{ item.title }}</strong></h3>
 
       {% if item.details %}
-      - <span class="item-details">{{ item.details }}</span>
+      <div class="level-description">{{ item.details | markdownify }}</div>
       {% endif %}
 
     </div><!--//item-->
