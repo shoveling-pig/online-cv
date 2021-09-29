@@ -170,7 +170,7 @@ p {
         margin-bottom: 60px;
     }
 
-    .experiences-section, .educations-section {
+    .work-experience-section, .extracurricular-activity-section, .education-section {
         .item {
             margin-bottom: 30px;
         }
@@ -198,14 +198,14 @@ p {
         color: $text-grey;
     }
 
-    .project-title {
+    .item-title {
         font-size: 16px;
         font-weight: 400;
         margin-top: 0;
         margin-bottom: 5px;
 	color: darken($theme-color, 15%);
     }
-    .projects-section {
+    .open-source-section, .certificates-section {
         .intro {
             margin-bottom: 30px;
         }
