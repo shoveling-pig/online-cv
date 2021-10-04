@@ -42,19 +42,7 @@ education:
         Computer Science and Engineering
       time: 2018.03 - 2019.02
         
-work-experience:
-    - role: <strong>ML Engineer</strong>
-      time: present - present
-      company: MOLOCO
-      details: |
-        - Studied image synthesis and video synthesis using deep learning.
-        
-    - role: <strong>ML Engineer</strong>
-      time: present - present
-      company: VoyazerX
-      details: |
-        - Studied image synthesis and video synthesis using deep learning.
-        
+work-experience:        
     - role: <strong>ML Research Scientist</strong>
       time: 2021.10 - present
       company: Lion Rocket
