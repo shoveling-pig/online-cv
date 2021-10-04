@@ -1,6 +1,6 @@
 sidebar: 
     name: <strong>Minchan<br/>Kim</strong>
-    tagline: AI Research Scientist
+    tagline: ML Research Scientist
     avatar: profile.png
 
     email: shovelingpig@gmail.com
@@ -29,7 +29,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m an AI research scientist interested in meta learning and transfer learning for few-shot learning. Currently I’m looking for an opportunity to work as a skilled industrial personnel. 
+      I’m an ML research scientist interested in meta learning and transfer learning for few-shot learning. Currently I’m looking for an opportunity to work as a skilled industrial personnel. 
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
@@ -43,6 +43,12 @@ education:
       time: 2018.03 - 2019.02
         
 work-experience:
+    - role: <strong>ML Research Scientist</strong>
+      time: 2021.10 - present
+      company: Lion Rocket
+      details: |
+        - Studied image synthesis and video synthesis using deep learning.
+      
     - role: <strong>Backend Engineer</strong>
       time: 2021.07 - 2021.10
       company: Nudge Healthcare & Smart Doctor
@@ -70,7 +76,7 @@ extracurricular-activity:
         
     - role: <strong>Software Engineer</strong>
       time: 2020.08 - present
-      company: Waffle Studio(SNU SW Development Club)
+      company: Waffle Studio (SNU SW Development Club)
       details: |
         - Developed [SNUGH](https://shoveling-pig.github.io/portfolio/2021/08/01/portfolio-snugh/), a website that helps college students plan their courses beforehand and manage graduation requirements.
         - Participated in backend development, mobile app development and DevOps management.
@@ -100,12 +106,13 @@ open-source:
     title: Open Source
     items:
       - title: Dynamize
-        details: A promise-based Node.js ORM for DynamoDB inspired by Sequelize.
+        details: |
+          A promise-based Node.js ORM for DynamoDB inspired by Sequelize.
         
 certificate:
     title: Certificate
     items:
-      - title: Industrial Engineer Information Processing (HRDK)
+      - title: Industrial Engineer Information Processing
         
 skills:
     title: Skills
