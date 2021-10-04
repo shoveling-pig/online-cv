@@ -43,6 +43,16 @@ education:
       time: 2018.03 - 2019.02
         
 work-experience:
+    - role: <strong>ML Engineer</strong>
+      time: present - present
+      company: MOLOCO
+      details:
+        
+    - role: <strong>ML Engineer</strong>
+      time: present - present
+      company: VoyazerX
+      details:
+        
     - role: <strong>ML Research Scientist</strong>
       time: 2021.10 - present
       company: Lion Rocket
