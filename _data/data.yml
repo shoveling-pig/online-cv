@@ -127,9 +127,9 @@ skills:
           - Scikit-learn
           - Pytorch
           - TensorFlow & Keras
-          - TensorRT
-          - Kubeflow & MLFlow
-          - Weights and Biases
+          - Optimization (CUDA Toolkit, TensorRT)
+          - Visualization (TensorBoard, Weights and Biases)
+          - MLOps (Kubeflow & MLFlow)
         level: 60%
 
       - name: Backend
@@ -178,10 +178,6 @@ skills:
 
 # honors-and-awards:
 #     title: Honors & Awards
-#     items:
-#       - name: IEEE SMC
-#         time: 2021.10.17
-#         details: 1st Place
 
 # publication:
 #     title: Publication
