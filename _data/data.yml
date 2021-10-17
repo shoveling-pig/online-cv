@@ -74,7 +74,7 @@ extracurricular-activity:
       details: |
         - Studied [automatic code generation](https://shoveling-pig.github.io/portfolio/2021/03/30/portfolio-capl/) of script language for service-oriented IoT platform using GPT-2.
         - Developed a backend server of service-oriented IoT platform (about to be commercialized).
-        - Applied the singleton pattern and TensorRT to the model loadiing process and improved inference latency by more than 8 times (from 7683ms to 936ms).
+        - Applied the singleton pattern and TensorRT to the model loading process and improved inference latency by more than 8 times (from 7683ms to 936ms).
         
     - role: <strong>Software Engineer</strong>
       time: 2020.08 - present
