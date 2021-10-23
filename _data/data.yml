@@ -125,7 +125,7 @@ skills:
           - Language (Python, MATLAB)
           - Numpy & Pandas
           - Scikit-learn
-          - Pytorch
+          - PyTorch & PyTorch Lightning
           - TensorFlow & Keras
           - Optimization (CUDA Toolkit, TensorRT)
           - Visualization (TensorBoard, Weights and Biases)
