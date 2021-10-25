@@ -128,7 +128,7 @@ skills:
           - PyTorch & PyTorch Lightning
           - TensorFlow & Keras
           - Optimization (CUDA Toolkit, TensorRT)
-          - Visualization (TensorBoard, Weights and Biases)
+          - Visualization (TensorBoard, Wandb)
           - MLOps (Kubeflow & MLFlow)
         level: 60%
 
