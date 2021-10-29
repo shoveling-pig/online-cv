@@ -47,9 +47,9 @@ work-experience:
       time: 2021.10 - present
       company: Lion Rocket
       details: |
-        - Studied a video synthesis using deep learning.
-        - Studied a video super resolution using deep learning.
-        - Developed a video IO pipeline and a computer vision framework.
+        - Studied a 3D STV(speech-to-video) model using deep learning.
+        - Studied a VSR(video super resolution) model using deep learning.
+        - Developed an integrated research environment including a new computer vision framework.
       
     - role: <strong>Backend Engineer</strong>
       time: 2021.07 - 2021.10
