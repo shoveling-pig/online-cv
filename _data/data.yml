@@ -47,9 +47,9 @@ work-experience:
       time: 2021.10 - present
       company: Lion Rocket
       details: |
-        - Studied face swapping using GAN-based DeepFake model.
-        - Studied a 3D STV(speech-to-video) model using PIRenderer and 3D face reconstruciton model.
-        - Studied a space-time video super resolution using flow-based deep learning model.
+        - Studied real-time face swapping using GAN-based deepfake model.
+        - Studied 3D STV(speech-to-video) using 3D face reconstruction model.
+        - Studied space-time video super resolution using flow-based deep learning model.
         - Developed an integrated research environment including a new highly flexible computer vision framework.
       
     - role: <strong>Backend Engineer</strong>
