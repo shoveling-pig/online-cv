@@ -65,7 +65,7 @@ extracurricular-activity:
       time: 2021.03 - 2021.07
       company: SNU Applied Data Science Lab
       details: |
-        - Studied [meta learning model](https://shoveling-pig.github.io/portfolio/2021/06/27/portfolio-adsl/) for personalized diagnosis of cardiac abnormality using 12-lead ECG classification.
+        - Studied [meta learning](https://shoveling-pig.github.io/portfolio/2021/06/27/portfolio-adsl/) model for personalized diagnosis of cardiac abnormality using 12-lead ECG classification.
         - Participated in the PhysioNet/CinC Challenge 2021.
         - Optimized the architecture and hyperparameters of transformer-based model and improved inference accuracy by more than 20% (from 0.62829 to 0.76013).
         
