@@ -29,7 +29,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m a ML research scientist interested in meta learning and transfer learning for few-shot learning. Currently I’m looking for an opportunity to work as a skilled industrial personnel. 
+      I’m a ML research scientist interested in computer vision and deep learning. Currently I’m looking for an opportunity to work as a skilled industrial personnel. 
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
@@ -47,9 +47,9 @@ work-experience:
       time: 2021.10 - present
       company: Lion Rocket
       details: |
-        - Studied a 3D STV(speech-to-video) model using deep learning.
-        - Studied a VSR(video super resolution) model using deep learning.
-        - Developed an integrated research environment including a new computer vision framework.
+        - Studied a 3D STV(speech-to-video) model using PIRenderer and 3D face reconstruciton model.
+        - Studied a space-time video super resolution using flow-based deep learning model.
+        - Developed an integrated research environment including a new highly flexible computer vision framework.
       
     - role: <strong>Backend Engineer</strong>
       time: 2021.07 - 2021.10
@@ -129,7 +129,7 @@ skills:
           - TensorFlow & Keras
           - Optimization (CUDA Toolkit, TensorRT)
           - Visualization (TensorBoard, Wandb)
-          - MLOps (Kubeflow & MLFlow)
+          - MLOps (Kubeflow, MLFlow)
         level: 60%
 
       - name: Backend
