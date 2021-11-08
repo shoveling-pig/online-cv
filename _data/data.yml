@@ -50,7 +50,7 @@ work-experience:
         - Studied real-time face swapping using GAN-based deepfake model.
         - Studied 3D STV(speech-to-video) using 3D face reconstruction model.
         - Studied space-time video super resolution using flow-based deep learning model.
-        - Developed an integrated research environment including a new highly flexible computer vision framework.
+        - Developed an integrated research environment including a new computer vision framework.
       
     - role: <strong>Backend Engineer</strong>
       time: 2021.07 - 2021.10
