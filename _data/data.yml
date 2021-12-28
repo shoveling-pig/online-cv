@@ -67,7 +67,7 @@ extracurricular-activity:
       details: |
         - Studied [meta learning](https://shovelingpig.github.io/portfolio/2021/06/27/portfolio-adsl/) model for personalized diagnosis of cardiac abnormality using 12-lead ECG classification.
         - Optimized the architecture and hyperparameters of transformer-based model and improved inference accuracy by more than 20% (from 0.62829 to 0.76013).
-        - Participated in the PhysioNet/CinC Challenge 2021 and achieved the highest test accuracy (0.702) among 40 teams on the test dataset. 
+        - Participated in the PhysioNet/CinC Challenge 2021 and achieved the highest test accuracy (70.2%) among 40 teams on the test dataset. 
         
     - role: <strong>Research Intern</strong>
       time: 2020.12 - 2021.03
