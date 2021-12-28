@@ -7,7 +7,7 @@ sidebar:
     phone: 010-3308-9805
     github: shovelingpig
     linkedin: shovelingpig
-    website: shoveling-pig.github.io/about
+    website: shovelingpig.github.io/about
 
     languages:
       - idiom: Korean
@@ -58,22 +58,22 @@ work-experience:
       details: |
         - Redesigned the cash log table of [Cashwalk](https://play.google.com/store/apps/details?id=com.cashwalk.cashwalk&hl=en&gl=US) (MAU 6 million) to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
         - As a result, cloud infra costs were saved by an average of 9% per month.
-        - Developed a [survey website](https://shoveling-pig.github.io/portfolio/2021/08/07/portfolio-smartsurvey/) to evaluate the services of hospital staff, creating economic value of more than $20,000.
+        - Developed a [survey website](https://shovelingpig.github.io/portfolio/2021/08/07/portfolio-smartsurvey/) to evaluate the services of hospital staff, creating economic value of more than $20,000.
 
 extracurricular-activity:
     - role: <strong>Research Intern</strong>
       time: 2021.03 - 2021.07
       company: SNU Applied Data Science Lab
       details: |
-        - Studied [meta learning](https://shoveling-pig.github.io/portfolio/2021/06/27/portfolio-adsl/) model for personalized diagnosis of cardiac abnormality using 12-lead ECG classification.
-        - Participated in the PhysioNet/CinC Challenge 2021.
+        - Studied [meta learning](https://shovelingpig.github.io/portfolio/2021/06/27/portfolio-adsl/) model for personalized diagnosis of cardiac abnormality using 12-lead ECG classification.
         - Optimized the architecture and hyperparameters of transformer-based model and improved inference accuracy by more than 20% (from 0.62829 to 0.76013).
+        - Participated in the PhysioNet/CinC Challenge 2021 and achieved the highest test accuracy (0.702) among 40 teams on the test dataset. 
         
     - role: <strong>Research Intern</strong>
       time: 2020.12 - 2021.03
       company: SNU Co-design and Parallel Processing Lab
       details: |
-        - Studied [automatic code generation](https://shoveling-pig.github.io/portfolio/2021/03/30/portfolio-capl/) of script language for service-oriented IoT platform using GPT-2.
+        - Studied [automatic code generation](https://shovelingpig.github.io/portfolio/2021/03/30/portfolio-capl/) of script language for service-oriented IoT platform using GPT-2.
         - Developed a backend server of service-oriented IoT platform (about to be commercialized).
         - Applied the singleton pattern and TensorRT to the model loading process and improved inference latency by more than 8 times (from 7683ms to 936ms).
         
@@ -81,21 +81,21 @@ extracurricular-activity:
       time: 2020.08 - present
       company: Waffle Studio (SNU SW Development Club)
       details: |
-        - Developed [SNUGH](https://shoveling-pig.github.io/portfolio/2021/08/01/portfolio-snugh/), a website that helps college students plan their courses beforehand and manage graduation requirements.
+        - Developed [SNUGH](https://shovelingpig.github.io/portfolio/2021/08/01/portfolio-snugh/), a website that helps college students plan their courses beforehand and manage graduation requirements.
         - Participated in backend development, mobile app development and DevOps management.
     
     - role: <strong>Software Engineer</strong>
       time: 2020.01 - 2020.07
       company: SPT (SNU Mobile App Development Team)
       details: |
-          - Developed [Proudly](https://shoveling-pig.github.io/portfolio/2020/08/24/portfolio-proudly/), a mobile app developed for self-management alarm service using photo authentication.
+          - Developed [Proudly](https://shovelingpig.github.io/portfolio/2020/08/24/portfolio-proudly/), a mobile app developed for self-management alarm service using photo authentication.
           - Participated in mobile app development.
         
     - role: <strong>Software Engineer</strong>
       time: 2019.06 - 2019.12
       company: Melting Pot (SNU Startup Club)
       details: |
-        - Developed [Finger Call](https://shoveling-pig.github.io/portfolio/2019/12/13/portfolio-fingercall/), an mobile application that helps people be on time by calculating late fees and sharing each other's current location in real time.
+        - Developed [Finger Call](https://shovelingpig.github.io/portfolio/2019/12/13/portfolio-fingercall/), an mobile application that helps people be on time by calculating late fees and sharing each other's current location in real time.
         - Participated in mobile app development.
         
     - role: <strong>Software Engineer</strong>
@@ -103,7 +103,7 @@ extracurricular-activity:
       company: KUCC (KU Computer Club)
       details: |
         - Taught overall android development, clean code and clean architecture as the mentor of android seminar.
-        - Succeeded in attracting small investments for group blind date matching and restaurant reservation service named [Meeting Playlist](https://shoveling-pig.github.io/portfolio/2019/03/21/portfolio-meetingplaylist/).    
+        - Succeeded in attracting small investments for group blind date matching and restaurant reservation service named [Meeting Playlist](https://shovelingpig.github.io/portfolio/2019/03/21/portfolio-meetingplaylist/).    
         
 open-source:
     title: Open Source
