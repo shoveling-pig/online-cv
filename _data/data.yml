@@ -28,7 +28,8 @@ career-profile:
     title: Career Profile
     summary: |
       I’m a data scientist interested in computer vision and deep learning.  
-      Currently, I'm working as a skilled industry personnel. (신체검사 1급 현역, 훈련소 수료 O)
+      Currently, I'm working as a skilled industry personnel.  
+      (신체검사 1급 현역, 훈련소 수료 O)
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
