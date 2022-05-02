@@ -1,6 +1,6 @@
 sidebar: 
     name: <strong>Minchan<br/>Kim</strong>
-    tagline: ML Research Scientist
+    tagline: ML Engineer
     avatar: profile.png
 
     email: shovelingpig@gmail.com
@@ -24,12 +24,15 @@ sidebar:
 
       - item: Problem Solving
 
-      - item: Soccer
+      - item: Reading Books
 
 career-profile:
     title: Career Profile
     summary: |
-      I’m a ML research scientist interested in computer vision and deep learning. Currently I’m looking for an opportunity to work as a skilled industrial personnel. 
+      I’m a ML engineer interested in computer vision and deep learning.  
+      Currently, I am working as an alternate military service agent.  
+      (현역 산업기능요원)
+      
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
@@ -43,7 +46,7 @@ education:
       time: 2018.03 - 2019.02
         
 work-experience:        
-    - role: <strong>ML Research Scientist</strong>
+    - role: <strong>ML Engineer</strong>
       time: 2021.10 - present
       company: Lion Rocket
       details: |
@@ -61,7 +64,7 @@ work-experience:
         - Developed a [survey website](https://shovelingpig.github.io/portfolio/2021/08/07/portfolio-smartsurvey/) to evaluate the services of hospital staff, creating economic value of more than $20,000.
 
 extracurricular-activity:
-    - role: <strong>Research Intern</strong>
+    - role: <strong>Research Assistant</strong>
       time: 2021.03 - 2021.07
       company: SNU Applied Data Science Lab
       details: |
@@ -69,7 +72,7 @@ extracurricular-activity:
         - Optimized the architecture and hyperparameters of transformer-based model and improved inference accuracy by more than 20% (from 0.62829 to 0.76013).
         - Participated in the PhysioNet/CinC Challenge 2021 and achieved the highest test accuracy (70.2%) among 40 teams on the test dataset. 
         
-    - role: <strong>Research Intern</strong>
+    - role: <strong>Research Assistant</strong>
       time: 2020.12 - 2021.03
       company: SNU Co-design and Parallel Processing Lab
       details: |
@@ -127,7 +130,7 @@ skills:
           - Numpy & Pandas
           - Scikit-learn
           - PyTorch & PyTorch Lightning
-          - TensorFlow & Keras
+          - TensorFlow 2.0
           - Optimization (CUDA Toolkit, TensorRT)
           - Visualization (TensorBoard, Wandb)
           - MLOps (Kubeflow, MLFlow)
