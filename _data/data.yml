@@ -48,10 +48,10 @@ work-experience:
       time: 2021.10 - Current
       company: Lion Rocket
       details: |
-        - Studied [real-time deepfake system]() using an identity swapping engine that manipulates the face and voice of the target video.
-        - Studied [3d digital human]() using a TTM (text-to-mesh) engine that generates talking 3d human mesh from text.
-        - Studied spatio-temporal [super-resolution]() model for video restoration.
-        - Designed and implemented an integrated research environment including a new computer vision framework based on pytorch lightning.
+        - Studied [real-time deepfake system]() using an identity swapping engine that manipulates the face and voice of the target video. Improved pose robustness and attribute preservation using GAN control and NeRF.
+        - Studied [3d digital human]() using a TTM (text-to-mesh) engine that generates talking 3d human mesh from text. Improved the mesh generation accuracy by changing the landmark detection model and 3d reconstruction model structure.
+        - Studied spatio-temporal [super-resolution]() model for video restoration. Used a GPEN-based model and improved the resolution of the video up to 4x from 256 to 1024.
+        - Designed and implemented an integrated research environment including a new computer vision framework based on pytorch lightning. Improved training speed up to 8 times with multi-gpu training using DDP.
       
     - role: <strong>Backend Engineer</strong>
       time: 2021.07 - 2021.10
