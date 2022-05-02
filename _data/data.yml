@@ -1,6 +1,6 @@
 sidebar: 
     name: <strong>Minchan<br/>Kim</strong>
-    tagline: ML Scientist
+    tagline: ML Engineer
     avatar: profile.png
 
     email: shovelingpig@gmail.com
@@ -21,15 +21,13 @@ sidebar:
 
     interests:
       - item: Kaggle Competition
-
       - item: Problem Solving
-
       - item: Reading Books
 
 career-profile:
     title: Career Profile
     summary: |
-      I’m a ML scientist interested in computer vision and deep learning.  
+      I’m a ML engineer interested in computer vision and deep learning.  
       Currently, I am working as an alternative military service. (현역 산업기능요원, 훈련소 수료 O)
       
 education:
@@ -44,7 +42,7 @@ education:
       time: 2018.03 - 2019.02
         
 work-experience:        
-    - role: <strong>ML Scientist</strong>
+    - role: <strong>ML Engineer</strong>
       time: 2021.10 - present
       company: Lion Rocket
       details: |
