@@ -130,7 +130,7 @@ skills:
           - Optimization (CUDA Toolkit, TensorRT)
           - Visualization (TensorBoard, Wandb)
           - MLOps (Kubeflow, MLFlow)
-        level: 60%
+        level: 80%
 
       - name: Backend
         description: |
@@ -140,7 +140,7 @@ skills:
           - Node & Express
           - ORM (Sequelize, Dynamize)
           - DBMS (MySQL, PostgreSQL, MongoDB, Redis, etc)
-        level: 80%
+        level: 70%
       
       - name: Infrastructure
         description: |
@@ -150,7 +150,7 @@ skills:
           - CI/CD (Github Action, Jenkins, CircleCI)
           - AWS (EC2, EB, RDS, DynamoDB, ElastiCache, S3, CloudFront, Lambda, Code Pipeline, Route53, CloudWatch, etc)
           - GCP
-        level: 70%
+        level: 60%
 
       - name: Android
         description: |
@@ -174,7 +174,7 @@ skills:
           - Issue Tracking (Jira, Trello)
           - UI/UX Design (Figma, Zeplin)
           - Communicaiton (Slack, Microsoft Teams)
-        level: 100%
+        level: 90%
 
 # honors-and-awards:
 #     title: Honors & Awards
