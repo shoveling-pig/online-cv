@@ -1,6 +1,6 @@
 sidebar: 
     name: <strong>Minchan<br/>Kim</strong>
-    tagline: ML Engineer
+    tagline: Machine Learning Engineer
     avatar: profile.png
 
     email: shovelingpig@gmail.com
@@ -29,10 +29,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m a ML engineer interested in computer vision and deep learning.  
-      Currently, I am working as an alternate military service agent.  
-      (현역 산업기능요원)
-      
+      I’m a machine learning engineer interested in computer vision and deep learning.  
+      Currently, I am working as an alternate military service agent. (현역 산업기능요원)
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
