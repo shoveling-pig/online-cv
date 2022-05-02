@@ -55,7 +55,7 @@ work-experience:
       
     - role: <strong>Backend Engineer</strong>
       time: 2021.07 - 2021.10
-      company: Nudge Healthcare & Smart Doctor
+      company: Smart Doctor & Nudge Healthcare
       details: |
         - Redesigned the cash log table of [Cashwalk](https://play.google.com/store/apps/details?id=com.cashwalk.cashwalk&hl=en&gl=US) (MAU 6 million) to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
         - As a result, cloud infra costs were saved by an average of 9% per month.
