@@ -104,18 +104,6 @@ extracurricular-activity:
         - Taught overall android development, clean code and clean architecture as the mentor of android seminar.
         - Succeeded in attracting small investments for group blind date matching and restaurant reservation service named [Meeting Playlist](https://shovelingpig.github.io/portfolio/2019/03/21/portfolio-meetingplaylist/).    
         
-open-source:
-    title: Open Source
-    items:
-      - title: Dynamize
-        details: |
-          A promise-based Node.js ORM for DynamoDB inspired by Sequelize.
-        
-certificate:
-    title: Certificate
-    items:
-      - title: Industrial Engineer Information Processing
-        
 skills:
     title: Skills
     toolset:
@@ -175,6 +163,18 @@ skills:
           - UI/UX Design (Figma, Zeplin)
           - Communicaiton (Slack, Microsoft Teams)
         level: 90%
+        
+open-source:
+    title: Open Source
+    items:
+      - title: Dynamize
+        details: |
+          A promise-based Node.js ORM for DynamoDB inspired by Sequelize.
+        
+certificate:
+    title: Certificate
+    items:
+      - title: Industrial Engineer Information Processing
 
 # honors-and-awards:
 #     title: Honors & Awards
