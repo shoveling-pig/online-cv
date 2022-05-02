@@ -57,7 +57,7 @@ work-experience:
       details: |
         - Redesigned the cash log table of [Cashwalk](https://play.google.com/store/apps/details?id=com.cashwalk.cashwalk&hl=en&gl=US) (MAU 6 million) to an optimized NoSQL schema and migrated it from RDS to DynamoDB.
         - As a result, cloud infra costs were saved by an average of 9% per month.
-        - Implemented a [survey website](https://shovelingpig.github.io/portfolio/2021/08/07/portfolio-smartsurvey/) to evaluate the services of hospital staff, creating economic value of more than $20,000.
+        - Designed and implemented a [survey website](https://shovelingpig.github.io/portfolio/2021/08/07/portfolio-smartsurvey/) to evaluate the services of hospital staff, creating economic value of more than $20,000.
 
 extracurricular-activity:
     - role: <strong>Research Assistant</strong>
@@ -73,28 +73,28 @@ extracurricular-activity:
       company: SNU Co-design and Parallel Processing Lab
       details: |
         - Studied [automatic code generation](https://shovelingpig.github.io/portfolio/2021/03/30/portfolio-capl/) of script language for service-oriented IoT platform using GPT-2.
-        - Implemented a backend server of service-oriented IoT platform (about to be commercialized).
+        - Developed a backend server of service-oriented IoT platform (about to be commercialized).
         - Applied the TensorRT to the inference pipeline and improved inference latency by more than 8 times (from 7683ms to 936ms).
         
     - role: <strong>Software Engineer</strong>
       time: 2020.08 - Current
       company: Waffle Studio (SNU SW Development Club)
       details: |
-        - Implemented [SNUGH](https://shovelingpig.github.io/portfolio/2021/08/01/portfolio-snugh/), a website that helps college students plan their courses beforehand and manage graduation requirements.
+        - Designed and implemented [SNUGH](https://shovelingpig.github.io/portfolio/2021/08/01/portfolio-snugh/), a website that helps college students plan their courses beforehand and manage graduation requirements.
         - Participated in backend development, mobile app development and DevOps management.
     
     - role: <strong>Software Engineer</strong>
       time: 2020.01 - 2020.07
       company: SPT (SNU Mobile App Development Team)
       details: |
-          - Implemented [Proudly](https://shovelingpig.github.io/portfolio/2020/08/24/portfolio-proudly/), a mobile app developed for self-management alarm service using photo authentication.
+          - Designed and implemented [Proudly](https://shovelingpig.github.io/portfolio/2020/08/24/portfolio-proudly/), a mobile app developed for self-management alarm service using photo authentication.
           - Participated in mobile app development.
         
     - role: <strong>Software Engineer</strong>
       time: 2019.06 - 2019.12
       company: Melting Pot (SNU Startup Club)
       details: |
-        - Implemented [Finger Call](https://shovelingpig.github.io/portfolio/2019/12/13/portfolio-fingercall/), an mobile application that helps people be on time by calculating late fees and sharing each other's current location in real time.
+        - Designed and implemented [Finger Call](https://shovelingpig.github.io/portfolio/2019/12/13/portfolio-fingercall/), an mobile application that helps people be on time by calculating late fees and sharing each other's current location in real time.
         - Participated in mobile app development.
         
     - role: <strong>Software Engineer</strong>
