@@ -1,6 +1,6 @@
 sidebar: 
     name: <strong>Minchan<br/>Kim</strong>
-    tagline: Machine Learning Engineer
+    tagline: ML Scientist
     avatar: profile.png
 
     email: shovelingpig@gmail.com
@@ -29,8 +29,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m a machine learning engineer interested in computer vision and deep learning.  
-      Currently, I am working as an alternative military service. (현역 산업기능요원, 훈련소 수료 완료)
+      I’m a ML scientist interested in computer vision and deep learning.  
+      Currently, I am working as an alternative military service. (현역 산업기능요원, 훈련소 수료 O)
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
@@ -44,13 +44,13 @@ education:
       time: 2018.03 - 2019.02
         
 work-experience:        
-    - role: <strong>Machine Learning Engineer</strong>
+    - role: <strong>ML Scientist</strong>
       time: 2021.10 - present
       company: Lion Rocket
       details: |
-        - Deepfake: Studied Identity Swapping which uses a generative model to replace the face and voice of a target video with another person.
-        - Digital Human: Studied 3D STV(speech-to-video) using 3D face reconstruction model.
-        - Video Restoration: Studied spatio-temporal video super-resolution using flow-based deep learning model.
+        - Studied Identity Swapping which replace the face and voice of a target video with another person.
+        - Studied TTV(text-to-video) engine for 3D digital human.
+        - Studied spatio-temporal video super-resolution for video restoration.
         - Framework: Developed an integrated research environment including a new computer vision framework.
       
     - role: <strong>Backend Engineer</strong>
