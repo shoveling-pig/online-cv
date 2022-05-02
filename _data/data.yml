@@ -35,7 +35,7 @@ education:
     - degree: <strong>Seoul National Univ.</strong>
       university: |  
         Computer Science and Engineering</br>Business Administration
-      time: 2019.03 - present
+      time: 2019.03 - Current
       details: |
     - degree: <strong>Korea Univ.</strong>
       university: |  
@@ -44,7 +44,7 @@ education:
         
 work-experience:
     - role: <strong>ML Research Scientist</strong>
-      time: 2021.10 - present
+      time: 2021.10 - Current
       company: Lion Rocket
       details: |
         - Studied image synthesis and video synthesis using deep learning.
@@ -75,7 +75,7 @@ extracurricular-activity:
         - Applied the singleton pattern and TensorRT to the model loadiing process and improved inference latency by more than 8 times (from 7683ms to 936ms).
         
     - role: <strong>Software Engineer</strong>
-      time: 2020.08 - present
+      time: 2020.08 - Current
       company: Waffle Studio (SNU SW Development Club)
       details: |
         - Developed [SNUGH](https://shoveling-pig.github.io/portfolio/2021/08/01/portfolio-snugh/), a website that helps college students plan their courses beforehand and manage graduation requirements.
