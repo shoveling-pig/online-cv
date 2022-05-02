@@ -46,9 +46,9 @@ work-experience:
       time: 2021.10 - Current
       company: Lion Rocket
       details: |
-        - Studied [real-time deepfake system]() using an identity swapping engine that manipulates the face and voice of the target video.
-        - Studied [3d digital human]() using a TTM (text-to-mesh) engine that generates talking 3d human mesh from text.
-        - Studied spatio-temporal [super-resolution]() model for video restoration.
+        - Studied [real-time deepfake system]() using an identity swapping engine (GAN-based) that manipulates the face and voice of the target video.
+        - Studied [3d digital human]() using a TTM (text-to-mesh) engine (CNN-based) that generates talking 3d human mesh from text.
+        - Studied spatio-temporal [super-resolution]() model (GAN-based) for video restoration.
         - Designed and implemented an integrated research environment including a new computer vision framework based on pytorch lightning.
       
     - role: <strong>Backend Engineer</strong>
@@ -72,7 +72,7 @@ extracurricular-activity:
       time: 2020.12 - 2021.03
       company: SNU Co-design and Parallel Processing Lab
       details: |
-        - Studied [automatic code generation](https://shovelingpig.github.io/portfolio/2021/03/30/portfolio-capl/) of script language for service-oriented IoT platform using GPT-2.
+        - Studied [automatic code generation](https://shovelingpig.github.io/portfolio/2021/03/30/portfolio-capl/) of script language for service-oriented IoT platform using fine-tuned GPT-2.
         - Developed a backend server of service-oriented IoT platform (about to be commercialized).
         - Applied the TensorRT to the inference pipeline and improved inference latency by more than 8 times (from 7683ms to 936ms).
         
