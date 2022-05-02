@@ -44,14 +44,14 @@ education:
       time: 2018.03 - 2019.02
         
 work-experience:        
-    - role: <strong>ML Engineer</strong>
+    - role: <strong>Machine Learning Engineer</strong>
       time: 2021.10 - present
       company: Lion Rocket
       details: |
-        - Studied real-time face swapping using GAN-based deepfake model.
-        - Studied 3D STV(speech-to-video) using 3D face reconstruction model.
-        - Studied space-time video super resolution using flow-based deep learning model.
-        - Developed an integrated research environment including a new computer vision framework.
+        - Deepfake: Studied Identity Swapping which uses a generative model to replace the face and voice of a target video with another person.
+        - Digital Human: Studied 3D STV(speech-to-video) using 3D face reconstruction model.
+        - Video Restoration: Studied spatio-temporal video super-resolution using flow-based deep learning model.
+        - Framework: Developed an integrated research environment including a new computer vision framework.
       
     - role: <strong>Backend Engineer</strong>
       time: 2021.07 - 2021.10
