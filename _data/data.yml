@@ -1,6 +1,6 @@
 sidebar: 
     name: <strong>Minchan<br/>Kim</strong>
-    tagline: Machine Learning Engineer
+    tagline: Data Scientist
     avatar: profile.png
 
     email: shovelingpig@gmail.com
@@ -27,8 +27,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m a machine learning engineer interested in computer vision and deep learning.  
-      Currently, I'm working as a skilled industry personnel. (현역 O, 훈련소 수료 O)
+      I’m a data scientist interested in computer vision and deep learning.  
+      Currently, I'm working as a skilled industry personnel. (신체검사 1급 현역, 훈련소 수료 O)
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
@@ -104,20 +104,32 @@ extracurricular-activity:
         - Taught overall android development, clean code and clean architecture as the mentor of android seminar.
         - Succeeded in attracting small investments for group blind date matching and restaurant reservation service named [Meeting Playlist](https://shovelingpig.github.io/portfolio/2019/03/21/portfolio-meetingplaylist/).    
         
+open-source:
+    title: Open Source
+    items:
+      - title: Dynamize
+        details: |
+          A promise-based Node.js ORM for DynamoDB inspired by Sequelize.
+        
+certificate:
+    title: Certificate
+    items:
+      - title: Industrial Engineer Information Processing
+        
 skills:
     title: Skills
     toolset:
       - name: Machine Learning
         description: |
           <br/>
-          - Language (Python, MATLAB)
+          - Language (Python, C++)
           - Numpy & Pandas
           - Scikit-learn
           - PyTorch & PyTorch Lightning
           - TensorFlow 2.0
           - Optimization (CUDA Toolkit, TensorRT)
           - Visualization (TensorBoard, Wandb)
-          - MLOps (Kubeflow, MLFlow)
+          - MLOps (MLFlow)
         level: 80%
 
       - name: Backend
@@ -134,7 +146,6 @@ skills:
         description: |
           <br/>
           - Docker & Docker Compose
-          - Orchestration (k8s) 
           - CI/CD (Github Action, Jenkins, CircleCI)
           - AWS (EC2, EB, RDS, DynamoDB, ElastiCache, S3, CloudFront, Lambda, Code Pipeline, Route53, CloudWatch, etc)
           - GCP
@@ -163,18 +174,7 @@ skills:
           - UI/UX Design (Figma, Zeplin)
           - Communicaiton (Slack, Microsoft Teams)
         level: 90%
-        
-open-source:
-    title: Open Source
-    items:
-      - title: Dynamize
-        details: |
-          A promise-based Node.js ORM for DynamoDB inspired by Sequelize.
-        
-certificate:
-    title: Certificate
-    items:
-      - title: Industrial Engineer Information Processing
+     
 
 # honors-and-awards:
 #     title: Honors & Awards
