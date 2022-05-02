@@ -46,7 +46,7 @@ work-experience:
       time: 2021.10 - Current
       company: Lion Rocket
       details: |
-        - Studied a real-time deepfake system using an identity swapping engine that manipulates the face and voice of a target video.
+        - Studied a real-time deepfake system using an identity swapping engine that manipulates the face and voice of the target video.
         - Studied 3D digital human using a TTM(text-to-mesh) engine that generates talking 3d human mesh from text.
         - Studied spatio-temporal video super-resolution for video restoration.
         - Developed an integrated research environment including a new computer vision framework based on pytorch lightning.
