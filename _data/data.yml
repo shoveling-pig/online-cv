@@ -1,6 +1,6 @@
 sidebar: 
     name: <strong>Minchan<br/>Kim</strong>
-    tagline: Data Scientist
+    tagline: ML Engineer
     avatar: profile.png
 
     email: shovelingpig@gmail.com
@@ -27,7 +27,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m a data scientist interested in computer vision and deep learning.  
+      I’m a ML engineer interested in computer vision and deep learning.  
       Currently, I'm working as a skilled industry personnel.  
         
       (신체검사 1급 현역, 훈련소 수료 O)
@@ -44,7 +44,7 @@ education:
       time: 2018.03 - 2019.02
         
 work-experience:        
-    - role: <strong>Machine Learning Engineer</strong>
+    - role: <strong>ML Engineer</strong>
       time: 2021.10 - Current
       company: Lion Rocket
       details: |
