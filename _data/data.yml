@@ -30,7 +30,7 @@ career-profile:
       I’m a ML engineer interested in computer vision and deep learning.  
       Currently, I'm working as a skilled industry personnel.  
         
-      (신체검사 1급 현역, 훈련소 수료 O)
+      (현역, 훈련소 수료 O)
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
@@ -51,7 +51,7 @@ work-experience:
         - Implemented [real-time deepfake system]() using an identity swapping engine that manipulates the face and voice of the target video. Improved pose robustness and attribute preservation by using NeRF and GAN-Control for data augmentation.
         - Implemented [3d digital human]() using a TTM (text-to-mesh) engine that generates talking 3d human mesh from text. Improved mesh generation accuracy by optimizing the architectures of landmark detection model and 3d reconstruction model.
         - Implemented spatio-temporal [super-resolution]() model for video restoration. Used a GPEN-based model and improved the resolution of the video up to 4x (from 256 to 1024).
-        - Designed and implemented an integrated research environment including a new computer vision framework based on pytorch lightning. Improved training speed up to 8 times with multi-gpu training using DDP.
+        - Designed and implemented an integrated research environment including a new computer vision framework based on pytorch lightning. Improved training speed up to 7 times with multi-gpu training using DDP.
       
     - role: <strong>Backend Engineer</strong>
       time: 2021.07 - 2021.10
