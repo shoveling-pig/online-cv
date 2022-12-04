@@ -27,25 +27,25 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I’m a ML engineer interested in computer vision and deep learning.  
+      I’m a ML engineer interested in deep learning.  
       Currently, I'm working as a skilled industry personnel.  
-        
-      (현역, 훈련소 수료 O)
       
 education:
     - degree: <strong>Seoul National Univ.</strong>
       university: |  
         Computer Science and Engineering</br>Business Administration
       time: 2019.03 - Current
-      details: |
-    - degree: <strong>Korea Univ.</strong>
-      university: |  
-        Computer Science and Engineering
-      time: 2018.03 - 2019.02
         
-work-experience:        
+work-experience:
     - role: <strong>ML Engineer</strong>
-      time: 2021.10 - Current
+      time: 2022.07 - Current
+      company: Hyperconnect
+      details: |
+        - Developed a central content moderation system for global services of Match Group.
+        - Developed an AI chatbot for dating simulation.
+
+    - role: <strong>ML Engineer</strong>
+      time: 2021.10 - 2022.07
       company: Lion Rocket
       details: |
         - Implemented [deepfake system]() using an identity swapping engine that manipulates the face and voice of the target video. Improved pose robustness and attribute preservation by using NeRF and GAN-Control for data augmentation.
